@@ -20,7 +20,7 @@ Siga as etapas abaixo para configurar e rodar o projeto:
 Primeiro, clone o repositório para o seu ambiente local:
 
 ```bash
-git clone https://github.com/usuario/silhuetas.git
+git clone https://github.com/eafrade/silhuetas.git
 cd silhuetas
 ```
 
