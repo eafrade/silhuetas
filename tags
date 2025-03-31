@@ -1,0 +1,1427 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/media/emerson/3bf8ab11-6363-4783-a09d-273375f7be45/emerson/htdocs/silhuetas/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+0	vendor/composer/installed.json	/^                    "Resources\/stubs"$/;"	s	array:packages.4.autoload.classmap
+0	vendor/composer/installed.json	/^                    "bootstrap.php"$/;"	s	array:packages.2.autoload.files
+0	vendor/composer/installed.json	/^                    "bootstrap.php"$/;"	s	array:packages.3.autoload.files
+0	vendor/composer/installed.json	/^                    "bootstrap.php"$/;"	s	array:packages.4.autoload.files
+0	vendor/composer/installed.json	/^                "Apache-2.0"$/;"	s	array:packages.1.license
+0	vendor/composer/installed.json	/^                "BSD-3-Clause"$/;"	s	array:packages.5.license
+0	vendor/composer/installed.json	/^                "Graham Campbell",$/;"	s	array:packages.0.keywords
+0	vendor/composer/installed.json	/^                "MIT"$/;"	s	array:packages.0.license
+0	vendor/composer/installed.json	/^                "MIT"$/;"	s	array:packages.2.license
+0	vendor/composer/installed.json	/^                "MIT"$/;"	s	array:packages.3.license
+0	vendor/composer/installed.json	/^                "MIT"$/;"	s	array:packages.4.license
+0	vendor/composer/installed.json	/^                "compatibility",$/;"	s	array:packages.2.keywords
+0	vendor/composer/installed.json	/^                "compatibility",$/;"	s	array:packages.3.keywords
+0	vendor/composer/installed.json	/^                "compatibility",$/;"	s	array:packages.4.keywords
+0	vendor/composer/installed.json	/^                "dotenv",$/;"	s	array:packages.5.keywords
+0	vendor/composer/installed.json	/^                "language",$/;"	s	array:packages.1.keywords
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.0.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.0.funding
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.1.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.1.funding
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.2.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.2.funding
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.3.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.3.funding
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.funding
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.5.authors
+0	vendor/composer/installed.json	/^                {$/;"	o	array:packages.5.funding
+0	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+0	vendor/graham-campbell/result-type/composer.json	/^        {$/;"	o	array:authors
+0	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+0	vendor/phpoption/phpoption/composer.json	/^        {$/;"	o	array:authors
+0	vendor/phpoption/phpoption/composer.json	/^    "keywords": ["php", "option", "language", "type"],$/;"	s	array:keywords
+0	vendor/symfony/polyfill-ctype/composer.json	/^        "files": [ "bootstrap.php" ]$/;"	s	array:autoload.files
+0	vendor/symfony/polyfill-ctype/composer.json	/^        {$/;"	o	array:authors
+0	vendor/symfony/polyfill-ctype/composer.json	/^    "keywords": ["polyfill", "compatibility", "portable", "ctype"],$/;"	s	array:keywords
+0	vendor/symfony/polyfill-mbstring/composer.json	/^        "files": [ "bootstrap.php" ]$/;"	s	array:autoload.files
+0	vendor/symfony/polyfill-mbstring/composer.json	/^        {$/;"	o	array:authors
+0	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	s	array:keywords
+0	vendor/symfony/polyfill-php80/composer.json	/^        "classmap": [ "Resources\/stubs" ]$/;"	s	array:autoload.classmap
+0	vendor/symfony/polyfill-php80/composer.json	/^        "files": [ "bootstrap.php" ],$/;"	s	array:autoload.files
+0	vendor/symfony/polyfill-php80/composer.json	/^        {$/;"	o	array:authors
+0	vendor/symfony/polyfill-php80/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable"],$/;"	s	array:keywords
+0	vendor/vlucas/phpdotenv/composer.json	/^        {$/;"	o	array:authors
+0	vendor/vlucas/phpdotenv/composer.json	/^    "keywords": ["env", "dotenv", "environment"],$/;"	s	array:keywords
+1	vendor/composer/installed.json	/^                "GrahamCampbell",$/;"	s	array:packages.0.keywords
+1	vendor/composer/installed.json	/^                "ctype",$/;"	s	array:packages.2.keywords
+1	vendor/composer/installed.json	/^                "env",$/;"	s	array:packages.5.keywords
+1	vendor/composer/installed.json	/^                "mbstring",$/;"	s	array:packages.3.keywords
+1	vendor/composer/installed.json	/^                "option",$/;"	s	array:packages.1.keywords
+1	vendor/composer/installed.json	/^                "polyfill",$/;"	s	array:packages.4.keywords
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.0.funding
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.1.authors
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.1.funding
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.2.authors
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.2.funding
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.3.authors
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.3.funding
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.authors
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.funding
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.5.authors
+1	vendor/composer/installed.json	/^                {$/;"	o	array:packages.5.funding
+1	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+1	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+1	vendor/phpoption/phpoption/composer.json	/^        {$/;"	o	array:authors
+1	vendor/phpoption/phpoption/composer.json	/^    "keywords": ["php", "option", "language", "type"],$/;"	s	array:keywords
+1	vendor/symfony/polyfill-ctype/composer.json	/^        {$/;"	o	array:authors
+1	vendor/symfony/polyfill-ctype/composer.json	/^    "keywords": ["polyfill", "compatibility", "portable", "ctype"],$/;"	s	array:keywords
+1	vendor/symfony/polyfill-mbstring/composer.json	/^        {$/;"	o	array:authors
+1	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	s	array:keywords
+1	vendor/symfony/polyfill-php80/composer.json	/^        {$/;"	o	array:authors
+1	vendor/symfony/polyfill-php80/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable"],$/;"	s	array:keywords
+1	vendor/vlucas/phpdotenv/composer.json	/^        {$/;"	o	array:authors
+1	vendor/vlucas/phpdotenv/composer.json	/^    "keywords": ["env", "dotenv", "environment"],$/;"	s	array:keywords
+2	vendor/composer/installed.json	/^                "Result Type",$/;"	s	array:packages.0.keywords
+2	vendor/composer/installed.json	/^                "environment"$/;"	s	array:packages.5.keywords
+2	vendor/composer/installed.json	/^                "php",$/;"	s	array:packages.1.keywords
+2	vendor/composer/installed.json	/^                "polyfill",$/;"	s	array:packages.2.keywords
+2	vendor/composer/installed.json	/^                "polyfill",$/;"	s	array:packages.3.keywords
+2	vendor/composer/installed.json	/^                "portable",$/;"	s	array:packages.4.keywords
+2	vendor/composer/installed.json	/^                {$/;"	o	array:packages.2.funding
+2	vendor/composer/installed.json	/^                {$/;"	o	array:packages.3.funding
+2	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.authors
+2	vendor/composer/installed.json	/^                {$/;"	o	array:packages.4.funding
+2	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+2	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+2	vendor/phpoption/phpoption/composer.json	/^    "keywords": ["php", "option", "language", "type"],$/;"	s	array:keywords
+2	vendor/symfony/polyfill-ctype/composer.json	/^    "keywords": ["polyfill", "compatibility", "portable", "ctype"],$/;"	s	array:keywords
+2	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	s	array:keywords
+2	vendor/symfony/polyfill-php80/composer.json	/^        {$/;"	o	array:authors
+2	vendor/symfony/polyfill-php80/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable"],$/;"	s	array:keywords
+2	vendor/vlucas/phpdotenv/composer.json	/^    "keywords": ["env", "dotenv", "environment"],$/;"	s	array:keywords
+3	vendor/composer/installed.json	/^                "Result-Type",$/;"	s	array:packages.0.keywords
+3	vendor/composer/installed.json	/^                "portable"$/;"	s	array:packages.2.keywords
+3	vendor/composer/installed.json	/^                "portable",$/;"	s	array:packages.3.keywords
+3	vendor/composer/installed.json	/^                "shim"$/;"	s	array:packages.4.keywords
+3	vendor/composer/installed.json	/^                "type"$/;"	s	array:packages.1.keywords
+3	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+3	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+3	vendor/phpoption/phpoption/composer.json	/^    "keywords": ["php", "option", "language", "type"],$/;"	s	array:keywords
+3	vendor/symfony/polyfill-ctype/composer.json	/^    "keywords": ["polyfill", "compatibility", "portable", "ctype"],$/;"	s	array:keywords
+3	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	s	array:keywords
+3	vendor/symfony/polyfill-php80/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable"],$/;"	s	array:keywords
+4	vendor/composer/installed.json	/^                "result"$/;"	s	array:packages.0.keywords
+4	vendor/composer/installed.json	/^                "shim"$/;"	s	array:packages.3.keywords
+4	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+4	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+4	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	s	array:keywords
+5	vendor/composer/installed.json	/^        {$/;"	o	array:packages
+5	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+6	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	s	array:keywords
+AdapterInterface	vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php	/^interface AdapterInterface extends ReaderInterface, WriterInterface$/;"	i	namespace:Dotenv\\Repository\\Adapter
+AdapterInterface	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\AdapterInterface;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\AdapterInterface
+AdapterRepository	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^final class AdapterRepository implements RepositoryInterface$/;"	c	namespace:Dotenv\\Repository
+ApacheAdapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^final class ApacheAdapter implements AdapterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+App	src/App/FileValidator.php	/^namespace App;$/;"	n
+App	src/App/Silhouettes.php	/^namespace App;$/;"	n
+App\\\\	composer.json	/^            "App\\\\": "src\/App\/"$/;"	s	object:autoload.psr-4
+ArrayAccess	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^use ArrayAccess;$/;"	a	namespace:PhpOption	typeref:unknown:ArrayAccess
+ArrayAdapter	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Repository\\Adapter\\ArrayAdapter;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Repository\\Adapter\\ArrayAdapter
+ArrayAdapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^final class ArrayAdapter implements AdapterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+ArrayIterator	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^use ArrayIterator;$/;"	a	namespace:PhpOption	typeref:unknown:ArrayIterator
+Attribute	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^final class Attribute$/;"	c
+COMMENT_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const COMMENT_STATE = 6;$/;"	d	class:Dotenv\\Parser\\EntryParser
+ClassLoader	vendor/composer/ClassLoader.php	/^class ClassLoader$/;"	c	namespace:Composer\\Autoload
+ClassLoader	vendor/composer/InstalledVersions.php	/^use Composer\\Autoload\\ClassLoader;$/;"	a	namespace:Composer	typeref:unknown:Composer\\Autoload\\ClassLoader
+Composer	vendor/composer/InstalledVersions.php	/^namespace Composer;$/;"	n
+ComposerAutoloaderInitd617fd5d9ef9c93f61510a11d2e9f3ae	vendor/composer/autoload_real.php	/^class ComposerAutoloaderInitd617fd5d9ef9c93f61510a11d2e9f3ae$/;"	c
+ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae	vendor/composer/autoload_static.php	/^class ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae$/;"	c	namespace:Composer\\Autoload
+Composer\\Autoload	vendor/composer/ClassLoader.php	/^namespace Composer\\Autoload;$/;"	n
+Composer\\Autoload	vendor/composer/autoload_static.php	/^namespace Composer\\Autoload;$/;"	n
+Ctype	vendor/symfony/polyfill-ctype/Ctype.php	/^final class Ctype$/;"	c	namespace:Symfony\\Polyfill\\Ctype
+DEFAULT_ADAPTERS	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private const DEFAULT_ADAPTERS = [$/;"	d	class:Dotenv\\Repository\\RepositoryBuilder
+DEFAULT_NAME	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private const DEFAULT_NAME = '.env';$/;"	d	class:Dotenv\\Store\\StoreBuilder
+DOUBLE_QUOTED_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const DOUBLE_QUOTED_STATE = 3;$/;"	d	class:Dotenv\\Parser\\EntryParser
+Dotenv	process.php	/^use Dotenv\\Dotenv;$/;"	a	typeref:unknown:Dotenv\\Dotenv
+Dotenv	vendor/vlucas/phpdotenv/src/Dotenv.php	/^class Dotenv$/;"	c	namespace:Dotenv
+Dotenv	vendor/vlucas/phpdotenv/src/Dotenv.php	/^namespace Dotenv;$/;"	n
+Dotenv	vendor/vlucas/phpdotenv/src/Validator.php	/^namespace Dotenv;$/;"	n
+Dotenv\\Exception	vendor/vlucas/phpdotenv/src/Exception/ExceptionInterface.php	/^namespace Dotenv\\Exception;$/;"	n
+Dotenv\\Exception	vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php	/^namespace Dotenv\\Exception;$/;"	n
+Dotenv\\Exception	vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php	/^namespace Dotenv\\Exception;$/;"	n
+Dotenv\\Exception	vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php	/^namespace Dotenv\\Exception;$/;"	n
+Dotenv\\Exception	vendor/vlucas/phpdotenv/src/Exception/ValidationException.php	/^namespace Dotenv\\Exception;$/;"	n
+Dotenv\\Loader	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^namespace Dotenv\\Loader;$/;"	n
+Dotenv\\Loader	vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php	/^namespace Dotenv\\Loader;$/;"	n
+Dotenv\\Loader	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^namespace Dotenv\\Loader;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/Lexer.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/ParserInterface.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Parser	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^namespace Dotenv\\Parser;$/;"	n
+Dotenv\\Repository	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^namespace Dotenv\\Repository;$/;"	n
+Dotenv\\Repository	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^namespace Dotenv\\Repository;$/;"	n
+Dotenv\\Repository	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^namespace Dotenv\\Repository;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReaderInterface.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Repository\\Adapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php	/^namespace Dotenv\\Repository\\Adapter;$/;"	n
+Dotenv\\Store	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^namespace Dotenv\\Store;$/;"	n
+Dotenv\\Store	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^namespace Dotenv\\Store;$/;"	n
+Dotenv\\Store	vendor/vlucas/phpdotenv/src/Store/StoreInterface.php	/^namespace Dotenv\\Store;$/;"	n
+Dotenv\\Store	vendor/vlucas/phpdotenv/src/Store/StringStore.php	/^namespace Dotenv\\Store;$/;"	n
+Dotenv\\Store\\File	vendor/vlucas/phpdotenv/src/Store/File/Paths.php	/^namespace Dotenv\\Store\\File;$/;"	n
+Dotenv\\Store\\File	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^namespace Dotenv\\Store\\File;$/;"	n
+Dotenv\\Util	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^namespace Dotenv\\Util;$/;"	n
+Dotenv\\Util	vendor/vlucas/phpdotenv/src/Util/Str.php	/^namespace Dotenv\\Util;$/;"	n
+Dotenv\\\\	vendor/composer/installed.json	/^                    "Dotenv\\\\": "src\/"$/;"	s	object:packages.5.autoload.psr-4
+Dotenv\\\\	vendor/vlucas/phpdotenv/composer.json	/^            "Dotenv\\\\": "src\/"$/;"	s	object:autoload.psr-4
+Dotenv\\\\Tests\\\\	vendor/vlucas/phpdotenv/composer.json	/^            "Dotenv\\\\Tests\\\\": "tests\/Dotenv\/"$/;"	s	object:autoload-dev.psr-4
+ESCAPE_SEQUENCE_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const ESCAPE_SEQUENCE_STATE = 4;$/;"	d	class:Dotenv\\Parser\\EntryParser
+EmptyIterator	vendor/phpoption/phpoption/src/PhpOption/None.php	/^use EmptyIterator;$/;"	a	namespace:PhpOption	typeref:unknown:EmptyIterator
+Entry	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^use Dotenv\\Parser\\Entry;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Parser\\Entry
+Entry	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^final class Entry$/;"	c	namespace:Dotenv\\Parser
+EntryParser	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^final class EntryParser$/;"	c	namespace:Dotenv\\Parser
+EnvConstAdapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^final class EnvConstAdapter implements AdapterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+EnvConstAdapter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\EnvConstAdapter;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+Error	vendor/graham-campbell/result-type/src/Error.php	/^final class Error extends Result$/;"	c	namespace:GrahamCampbell\\ResultType
+Error	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^use GrahamCampbell\\ResultType\\Error;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:GrahamCampbell\\ResultType\\Error
+Error	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^use GrahamCampbell\\ResultType\\Error;$/;"	a	namespace:Dotenv\\Util	typeref:unknown:GrahamCampbell\\ResultType\\Error
+Error	vendor/vlucas/phpdotenv/src/Util/Str.php	/^use GrahamCampbell\\ResultType\\Error;$/;"	a	namespace:Dotenv\\Util	typeref:unknown:GrahamCampbell\\ResultType\\Error
+ExceptionInterface	vendor/vlucas/phpdotenv/src/Exception/ExceptionInterface.php	/^interface ExceptionInterface extends Throwable$/;"	i	namespace:Dotenv\\Exception
+FILTER_VALIDATE_BOOL	vendor/symfony/polyfill-php80/bootstrap.php	/^    define('FILTER_VALIDATE_BOOL', \\FILTER_VALIDATE_BOOLEAN);$/;"	d
+FileStore	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^final class FileStore implements StoreInterface$/;"	c	namespace:Dotenv\\Store
+FileValidator	process.php	/^use App\\FileValidator;$/;"	a	typeref:unknown:App\\FileValidator
+FileValidator	src/App/FileValidator.php	/^class FileValidator$/;"	c	namespace:App
+GrahamCampbell\\ResultType	vendor/graham-campbell/result-type/src/Error.php	/^namespace GrahamCampbell\\ResultType;$/;"	n
+GrahamCampbell\\ResultType	vendor/graham-campbell/result-type/src/Result.php	/^namespace GrahamCampbell\\ResultType;$/;"	n
+GrahamCampbell\\ResultType	vendor/graham-campbell/result-type/src/Success.php	/^namespace GrahamCampbell\\ResultType;$/;"	n
+GrahamCampbell\\\\ResultType\\\\	vendor/composer/installed.json	/^                    "GrahamCampbell\\\\ResultType\\\\": "src\/"$/;"	s	object:packages.0.autoload.psr-4
+GrahamCampbell\\\\ResultType\\\\	vendor/graham-campbell/result-type/composer.json	/^            "GrahamCampbell\\\\ResultType\\\\": "src\/"$/;"	s	object:autoload.psr-4
+GrahamCampbell\\\\Tests\\\\ResultType\\\\	vendor/graham-campbell/result-type/composer.json	/^            "GrahamCampbell\\\\Tests\\\\ResultType\\\\": "tests\/"$/;"	s	object:autoload-dev.psr-4
+GuardedWriter	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^final class GuardedWriter implements WriterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+GuardedWriter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\GuardedWriter;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\GuardedWriter
+INITIAL_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const INITIAL_STATE = 0;$/;"	d	class:Dotenv\\Parser\\EntryParser
+IS_REPEATABLE	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const IS_REPEATABLE = 64;$/;"	d	class:Attribute
+ImmutableWriter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^final class ImmutableWriter implements WriterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+ImmutableWriter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\ImmutableWriter;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\ImmutableWriter
+InstalledVersions	vendor/composer/InstalledVersions.php	/^class InstalledVersions$/;"	c	namespace:Composer
+InvalidArgumentException	vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php	/^use InvalidArgumentException;$/;"	a	namespace:Dotenv\\Exception	typeref:unknown:InvalidArgumentException
+InvalidArgumentException	vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php	/^use InvalidArgumentException;$/;"	a	namespace:Dotenv\\Exception	typeref:unknown:InvalidArgumentException
+InvalidArgumentException	vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php	/^use InvalidArgumentException;$/;"	a	namespace:Dotenv\\Exception	typeref:unknown:InvalidArgumentException
+InvalidArgumentException	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^use InvalidArgumentException;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:InvalidArgumentException
+InvalidArgumentException	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use InvalidArgumentException;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:InvalidArgumentException
+InvalidEncodingException	vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php	/^final class InvalidEncodingException extends InvalidArgumentException implements ExceptionInterf/;"	c	namespace:Dotenv\\Exception
+InvalidEncodingException	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^use Dotenv\\Exception\\InvalidEncodingException;$/;"	a	namespace:Dotenv\\Store\\File	typeref:unknown:Dotenv\\Exception\\InvalidEncodingException
+InvalidFileException	vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php	/^final class InvalidFileException extends InvalidArgumentException implements ExceptionInterface$/;"	c	namespace:Dotenv\\Exception
+InvalidFileException	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^use Dotenv\\Exception\\InvalidFileException;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Exception\\InvalidFileException
+InvalidPathException	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Exception\\InvalidPathException;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Exception\\InvalidPathException
+InvalidPathException	vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php	/^final class InvalidPathException extends InvalidArgumentException implements ExceptionInterface$/;"	c	namespace:Dotenv\\Exception
+InvalidPathException	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^use Dotenv\\Exception\\InvalidPathException;$/;"	a	namespace:Dotenv\\Store	typeref:unknown:Dotenv\\Exception\\InvalidPathException
+IteratorAggregate	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^use IteratorAggregate;$/;"	a	namespace:PhpOption	typeref:unknown:IteratorAggregate
+LazyOption	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^final class LazyOption extends Option$/;"	c	namespace:PhpOption
+Lexer	vendor/vlucas/phpdotenv/src/Parser/Lexer.php	/^final class Lexer$/;"	c	namespace:Dotenv\\Parser
+License	vendor/symfony/polyfill-ctype/README.md	/^License$/;"	c
+License	vendor/symfony/polyfill-mbstring/README.md	/^License$/;"	c
+License	vendor/symfony/polyfill-php80/README.md	/^License$/;"	c
+Lines	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^final class Lines$/;"	c	namespace:Dotenv\\Parser
+Loader	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Loader\\Loader;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Loader\\Loader
+Loader	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^final class Loader implements LoaderInterface$/;"	c	namespace:Dotenv\\Loader
+LoaderInterface	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Loader\\LoaderInterface;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Loader\\LoaderInterface
+LoaderInterface	vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php	/^interface LoaderInterface$/;"	i	namespace:Dotenv\\Loader
+MB_CASE_FOLD	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public const MB_CASE_FOLD = \\PHP_INT_MAX;$/;"	d	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+MB_CASE_LOWER	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    define('MB_CASE_LOWER', 1);$/;"	d
+MB_CASE_LOWER	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    define('MB_CASE_LOWER', 1);$/;"	d
+MB_CASE_TITLE	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    define('MB_CASE_TITLE', 2);$/;"	d
+MB_CASE_TITLE	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    define('MB_CASE_TITLE', 2);$/;"	d
+MB_CASE_UPPER	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    define('MB_CASE_UPPER', 0);$/;"	d
+MB_CASE_UPPER	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    define('MB_CASE_UPPER', 0);$/;"	d
+Mbstring	vendor/symfony/polyfill-mbstring/Mbstring.php	/^final class Mbstring$/;"	c	namespace:Symfony\\Polyfill\\Mbstring
+MultiReader	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^final class MultiReader implements ReaderInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+MultiReader	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\MultiReader;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\MultiReader
+MultiWriter	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^final class MultiWriter implements WriterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+MultiWriter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\MultiWriter;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\MultiWriter
+None	vendor/graham-campbell/result-type/src/Error.php	/^use PhpOption\\None;$/;"	a	namespace:GrahamCampbell\\ResultType	typeref:unknown:PhpOption\\None
+None	vendor/graham-campbell/result-type/src/Success.php	/^use PhpOption\\None;$/;"	a	namespace:GrahamCampbell\\ResultType	typeref:unknown:PhpOption\\None
+None	vendor/phpoption/phpoption/src/PhpOption/None.php	/^final class None extends Option$/;"	c	namespace:PhpOption
+None	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^use PhpOption\\None;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\None
+None	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^use PhpOption\\None;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\None
+None	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^use PhpOption\\None;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\None
+Option	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^abstract class Option implements IteratorAggregate$/;"	c	namespace:PhpOption
+Option	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Store\\File	typeref:unknown:PhpOption\\Option
+Option	vendor/vlucas/phpdotenv/src/Util/Str.php	/^use PhpOption\\Option;$/;"	a	namespace:Dotenv\\Util	typeref:unknown:PhpOption\\Option
+PATTERNS	vendor/vlucas/phpdotenv/src/Parser/Lexer.php	/^    private const PATTERNS = [$/;"	d	class:Dotenv\\Parser\\Lexer
+Parser	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Parser\\Parser;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Parser\\Parser
+Parser	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^final class Parser implements ParserInterface$/;"	c	namespace:Dotenv\\Parser
+ParserInterface	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Parser\\ParserInterface;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Parser\\ParserInterface
+ParserInterface	vendor/vlucas/phpdotenv/src/Parser/ParserInterface.php	/^interface ParserInterface$/;"	i	namespace:Dotenv\\Parser
+Paths	vendor/vlucas/phpdotenv/src/Store/File/Paths.php	/^final class Paths$/;"	c	namespace:Dotenv\\Store\\File
+Paths	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^use Dotenv\\Store\\File\\Paths;$/;"	a	namespace:Dotenv\\Store	typeref:unknown:Dotenv\\Store\\File\\Paths
+Php80	vendor/symfony/polyfill-php80/Php80.php	/^final class Php80$/;"	c	namespace:Symfony\\Polyfill\\Php80
+PhpOption	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^namespace PhpOption;$/;"	n
+PhpOption	vendor/phpoption/phpoption/src/PhpOption/None.php	/^namespace PhpOption;$/;"	n
+PhpOption	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^namespace PhpOption;$/;"	n
+PhpOption	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^namespace PhpOption;$/;"	n
+PhpOption\\\\	vendor/composer/installed.json	/^                    "PhpOption\\\\": "src\/PhpOption\/"$/;"	s	object:packages.1.autoload.psr-4
+PhpOption\\\\	vendor/phpoption/phpoption/composer.json	/^            "PhpOption\\\\": "src\/PhpOption\/"$/;"	s	object:autoload.psr-4
+PhpOption\\\\Tests\\\\	vendor/phpoption/phpoption/composer.json	/^            "PhpOption\\\\Tests\\\\": "tests\/PhpOption\/Tests\/"$/;"	s	object:autoload-dev.psr-4
+PhpToken	vendor/symfony/polyfill-php80/PhpToken.php	/^class PhpToken implements \\Stringable$/;"	c	namespace:Symfony\\Polyfill\\Php80
+PhpToken	vendor/symfony/polyfill-php80/Resources/stubs/PhpToken.php	/^    class PhpToken extends Symfony\\Polyfill\\Php80\\PhpToken$/;"	c
+PutenvAdapter	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Repository\\Adapter\\PutenvAdapter;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Repository\\Adapter\\PutenvAdapter
+PutenvAdapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^final class PutenvAdapter implements AdapterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+REJECT_STATES	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const REJECT_STATES = [self::SINGLE_QUOTED_STATE, self::DOUBLE_QUOTED_STATE, self::E/;"	d	class:Dotenv\\Parser\\EntryParser
+Reader	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^final class Reader$/;"	c	namespace:Dotenv\\Store\\File
+Reader	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^use Dotenv\\Store\\File\\Reader;$/;"	a	namespace:Dotenv\\Store	typeref:unknown:Dotenv\\Store\\File\\Reader
+ReaderInterface	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReaderInterface.php	/^interface ReaderInterface$/;"	i	namespace:Dotenv\\Repository\\Adapter
+ReaderInterface	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^use Dotenv\\Repository\\Adapter\\ReaderInterface;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\ReaderInterface
+ReaderInterface	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\ReaderInterface;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\ReaderInterface
+ReflectionClass	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use ReflectionClass;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:ReflectionClass
+Regex	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^use Dotenv\\Util\\Regex;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Util\\Regex
+Regex	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^use Dotenv\\Util\\Regex;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Regex
+Regex	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^use Dotenv\\Util\\Regex;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Regex
+Regex	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^use Dotenv\\Util\\Regex;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Regex
+Regex	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^final class Regex$/;"	c	namespace:Dotenv\\Util
+Regex	vendor/vlucas/phpdotenv/src/Validator.php	/^use Dotenv\\Util\\Regex;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Util\\Regex
+ReplacingWriter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^final class ReplacingWriter implements WriterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+RepositoryBuilder	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Repository\\RepositoryBuilder;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Repository\\RepositoryBuilder
+RepositoryBuilder	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^final class RepositoryBuilder$/;"	c	namespace:Dotenv\\Repository
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Repository\\RepositoryInterface;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Repository\\RepositoryInterface
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^use Dotenv\\Repository\\RepositoryInterface;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Repository\\RepositoryInterface
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php	/^use Dotenv\\Repository\\RepositoryInterface;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Repository\\RepositoryInterface
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^use Dotenv\\Repository\\RepositoryInterface;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Repository\\RepositoryInterface
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^interface RepositoryInterface$/;"	i	namespace:Dotenv\\Repository
+RepositoryInterface	vendor/vlucas/phpdotenv/src/Validator.php	/^use Dotenv\\Repository\\RepositoryInterface;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Repository\\RepositoryInterface
+Resolver	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^final class Resolver$/;"	c	namespace:Dotenv\\Loader
+Result	vendor/graham-campbell/result-type/src/Result.php	/^abstract class Result$/;"	c	namespace:GrahamCampbell\\ResultType
+Result	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^use GrahamCampbell\\ResultType\\Result;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:GrahamCampbell\\ResultType\\Result
+Result	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^use GrahamCampbell\\ResultType\\Result;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:GrahamCampbell\\ResultType\\Result
+RuntimeException	vendor/vlucas/phpdotenv/src/Exception/ValidationException.php	/^use RuntimeException;$/;"	a	namespace:Dotenv\\Exception	typeref:unknown:RuntimeException
+SIMPLE_CASE_FOLD	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private const SIMPLE_CASE_FOLD = [$/;"	d	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+SINGLE_QUOTED_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const SINGLE_QUOTED_STATE = 2;$/;"	d	class:Dotenv\\Parser\\EntryParser
+ServerConstAdapter	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^final class ServerConstAdapter implements AdapterInterface$/;"	c	namespace:Dotenv\\Repository\\Adapter
+ServerConstAdapter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\ServerConstAdapter;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+Silhouettes	process.php	/^use App\\Silhouettes;$/;"	a	typeref:unknown:App\\Silhouettes
+Silhouettes	src/App/Silhouettes.php	/^class Silhouettes$/;"	c	namespace:App
+Some	vendor/graham-campbell/result-type/src/Error.php	/^use PhpOption\\Some;$/;"	a	namespace:GrahamCampbell\\ResultType	typeref:unknown:PhpOption\\Some
+Some	vendor/graham-campbell/result-type/src/Success.php	/^use PhpOption\\Some;$/;"	a	namespace:GrahamCampbell\\ResultType	typeref:unknown:PhpOption\\Some
+Some	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^final class Some extends Option$/;"	c	namespace:PhpOption
+Some	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Some
+Some	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Some
+Some	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Some
+Some	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Some
+Some	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository\\Adapter	typeref:unknown:PhpOption\\Some
+Some	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use PhpOption\\Some;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:PhpOption\\Some
+StoreBuilder	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Store\\StoreBuilder;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Store\\StoreBuilder
+StoreBuilder	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^final class StoreBuilder$/;"	c	namespace:Dotenv\\Store
+StoreInterface	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Store\\StoreInterface;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Store\\StoreInterface
+StoreInterface	vendor/vlucas/phpdotenv/src/Store/StoreInterface.php	/^interface StoreInterface$/;"	i	namespace:Dotenv\\Store
+Str	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Util\\Str
+Str	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Str
+Str	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Str
+Str	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:Dotenv\\Util\\Str
+Str	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv\\Store\\File	typeref:unknown:Dotenv\\Util\\Str
+Str	vendor/vlucas/phpdotenv/src/Util/Str.php	/^final class Str$/;"	c	namespace:Dotenv\\Util
+Str	vendor/vlucas/phpdotenv/src/Validator.php	/^use Dotenv\\Util\\Str;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Util\\Str
+StringStore	vendor/vlucas/phpdotenv/src/Dotenv.php	/^use Dotenv\\Store\\StringStore;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Store\\StringStore
+StringStore	vendor/vlucas/phpdotenv/src/Store/StringStore.php	/^final class StringStore implements StoreInterface$/;"	c	namespace:Dotenv\\Store
+Stringable	vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php	/^    interface Stringable$/;"	i
+Success	vendor/graham-campbell/result-type/src/Success.php	/^final class Success extends Result$/;"	c	namespace:GrahamCampbell\\ResultType
+Success	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^use GrahamCampbell\\ResultType\\Success;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:GrahamCampbell\\ResultType\\Success
+Success	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^use GrahamCampbell\\ResultType\\Success;$/;"	a	namespace:Dotenv\\Parser	typeref:unknown:GrahamCampbell\\ResultType\\Success
+Success	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^use GrahamCampbell\\ResultType\\Success;$/;"	a	namespace:Dotenv\\Util	typeref:unknown:GrahamCampbell\\ResultType\\Success
+Success	vendor/vlucas/phpdotenv/src/Util/Str.php	/^use GrahamCampbell\\ResultType\\Success;$/;"	a	namespace:Dotenv\\Util	typeref:unknown:GrahamCampbell\\ResultType\\Success
+Symfony Polyfill / Ctype	vendor/symfony/polyfill-ctype/README.md	/^Symfony Polyfill \/ Ctype$/;"	c
+Symfony Polyfill / Mbstring	vendor/symfony/polyfill-mbstring/README.md	/^Symfony Polyfill \/ Mbstring$/;"	c
+Symfony Polyfill / Php80	vendor/symfony/polyfill-php80/README.md	/^Symfony Polyfill \/ Php80$/;"	c
+Symfony\\Polyfill\\Ctype	vendor/symfony/polyfill-ctype/Ctype.php	/^namespace Symfony\\Polyfill\\Ctype;$/;"	n
+Symfony\\Polyfill\\Mbstring	vendor/symfony/polyfill-mbstring/Mbstring.php	/^namespace Symfony\\Polyfill\\Mbstring;$/;"	n
+Symfony\\Polyfill\\Php80	vendor/symfony/polyfill-php80/Php80.php	/^namespace Symfony\\Polyfill\\Php80;$/;"	n
+Symfony\\Polyfill\\Php80	vendor/symfony/polyfill-php80/PhpToken.php	/^namespace Symfony\\Polyfill\\Php80;$/;"	n
+Symfony\\\\Polyfill\\\\Ctype\\\\	vendor/composer/installed.json	/^                    "Symfony\\\\Polyfill\\\\Ctype\\\\": ""$/;"	s	object:packages.2.autoload.psr-4
+Symfony\\\\Polyfill\\\\Ctype\\\\	vendor/symfony/polyfill-ctype/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Ctype\\\\": "" },$/;"	s	object:autoload.psr-4
+Symfony\\\\Polyfill\\\\Mbstring\\\\	vendor/composer/installed.json	/^                    "Symfony\\\\Polyfill\\\\Mbstring\\\\": ""$/;"	s	object:packages.3.autoload.psr-4
+Symfony\\\\Polyfill\\\\Mbstring\\\\	vendor/symfony/polyfill-mbstring/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Mbstring\\\\": "" },$/;"	s	object:autoload.psr-4
+Symfony\\\\Polyfill\\\\Php80\\\\	vendor/composer/installed.json	/^                    "Symfony\\\\Polyfill\\\\Php80\\\\": ""$/;"	s	object:packages.4.autoload.psr-4
+Symfony\\\\Polyfill\\\\Php80\\\\	vendor/symfony/polyfill-php80/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Php80\\\\": "" },$/;"	s	object:autoload.psr-4
+TARGET_ALL	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_ALL = 63;$/;"	d	class:Attribute
+TARGET_CLASS	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_CLASS = 1;$/;"	d	class:Attribute
+TARGET_CLASS_CONSTANT	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_CLASS_CONSTANT = 16;$/;"	d	class:Attribute
+TARGET_FUNCTION	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_FUNCTION = 2;$/;"	d	class:Attribute
+TARGET_METHOD	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_METHOD = 4;$/;"	d	class:Attribute
+TARGET_PARAMETER	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_PARAMETER = 32;$/;"	d	class:Attribute
+TARGET_PROPERTY	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public const TARGET_PROPERTY = 8;$/;"	d	class:Attribute
+Throwable	vendor/vlucas/phpdotenv/src/Exception/ExceptionInterface.php	/^use Throwable;$/;"	a	namespace:Dotenv\\Exception	typeref:unknown:Throwable
+Traversable	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^use Traversable;$/;"	a	namespace:PhpOption	typeref:unknown:Traversable
+UNQUOTED_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const UNQUOTED_STATE = 1;$/;"	d	class:Dotenv\\Parser\\EntryParser
+UnhandledMatchError	vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php	/^    class UnhandledMatchError extends Error$/;"	c
+ValidationException	vendor/vlucas/phpdotenv/src/Exception/ValidationException.php	/^final class ValidationException extends RuntimeException implements ExceptionInterface$/;"	c	namespace:Dotenv\\Exception
+ValidationException	vendor/vlucas/phpdotenv/src/Validator.php	/^use Dotenv\\Exception\\ValidationException;$/;"	a	namespace:Dotenv	typeref:unknown:Dotenv\\Exception\\ValidationException
+Validator	vendor/vlucas/phpdotenv/src/Validator.php	/^class Validator$/;"	c	namespace:Dotenv
+Value	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^use Dotenv\\Parser\\Value;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Parser\\Value
+Value	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^use Dotenv\\Parser\\Value;$/;"	a	namespace:Dotenv\\Loader	typeref:unknown:Dotenv\\Parser\\Value
+Value	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^final class Value$/;"	c	namespace:Dotenv\\Parser
+ValueError	vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php	/^    class ValueError extends Error$/;"	c
+VersionParser	vendor/composer/InstalledVersions.php	/^use Composer\\Semver\\VersionParser;$/;"	a	namespace:Composer	typeref:unknown:Composer\\Semver\\VersionParser
+WHITESPACE_STATE	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private const WHITESPACE_STATE = 5;$/;"	d	class:Dotenv\\Parser\\EntryParser
+WriterInterface	vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php	/^interface WriterInterface$/;"	i	namespace:Dotenv\\Repository\\Adapter
+WriterInterface	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^use Dotenv\\Repository\\Adapter\\WriterInterface;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\WriterInterface
+WriterInterface	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^use Dotenv\\Repository\\Adapter\\WriterInterface;$/;"	a	namespace:Dotenv\\Repository	typeref:unknown:Dotenv\\Repository\\Adapter\\WriterInterface
+__construct	src/App/Silhouettes.php	/^    public function __construct(array $silhouettes)$/;"	f	class:App\\Silhouettes
+__construct	vendor/composer/ClassLoader.php	/^    public function __construct($vendorDir = null)$/;"	f	class:Composer\\Autoload\\ClassLoader
+__construct	vendor/graham-campbell/result-type/src/Error.php	/^    private function __construct($value)$/;"	f	class:GrahamCampbell\\ResultType\\Error
+__construct	vendor/graham-campbell/result-type/src/Success.php	/^    private function __construct($value)$/;"	f	class:GrahamCampbell\\ResultType\\Success
+__construct	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function __construct($callback, array $arguments = [])$/;"	f	class:PhpOption\\LazyOption
+__construct	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    private function __construct()$/;"	f	class:PhpOption\\None
+__construct	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function __construct($value)$/;"	f	class:PhpOption\\Some
+__construct	vendor/symfony/polyfill-php80/PhpToken.php	/^    public function __construct(int $id, string $text, int $line = -1, int $position = -1)$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken
+__construct	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public function __construct(int $flags = self::TARGET_ALL)$/;"	f	class:Attribute
+__construct	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public function __construct($/;"	f	class:Dotenv\\Dotenv
+__construct	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^    private function __construct()$/;"	f	class:Dotenv\\Loader\\Resolver
+__construct	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^    public function __construct(string $name, ?Value $value = null)$/;"	f	class:Dotenv\\Parser\\Entry
+__construct	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private function __construct()$/;"	f	class:Dotenv\\Parser\\EntryParser
+__construct	vendor/vlucas/phpdotenv/src/Parser/Lexer.php	/^    private function __construct()$/;"	f	class:Dotenv\\Parser\\Lexer
+__construct	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    private function __construct()$/;"	f	class:Dotenv\\Parser\\Lines
+__construct	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    private function __construct(string $chars, array $vars)$/;"	f	class:Dotenv\\Parser\\Value
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    private function __construct()$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    private function __construct()$/;"	f	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^    private function __construct()$/;"	f	class:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    public function __construct(WriterInterface $writer, array $allowList)$/;"	f	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    public function __construct(WriterInterface $writer, ReaderInterface $reader)$/;"	f	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^    public function __construct(array $readers)$/;"	f	class:Dotenv\\Repository\\Adapter\\MultiReader
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^    public function __construct(array $writers)$/;"	f	class:Dotenv\\Repository\\Adapter\\MultiWriter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    private function __construct()$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    public function __construct(WriterInterface $writer, ReaderInterface $reader)$/;"	f	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+__construct	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^    private function __construct()$/;"	f	class:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+__construct	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    public function __construct(ReaderInterface $reader, WriterInterface $writer)$/;"	f	class:Dotenv\\Repository\\AdapterRepository
+__construct	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private function __construct(array $readers = [], array $writers = [], bool $immutable = fal/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+__construct	vendor/vlucas/phpdotenv/src/Store/File/Paths.php	/^    private function __construct()$/;"	f	class:Dotenv\\Store\\File\\Paths
+__construct	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^    private function __construct()$/;"	f	class:Dotenv\\Store\\File\\Reader
+__construct	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^    public function __construct(array $filePaths, bool $shortCircuit, ?string $fileEncoding = nu/;"	f	class:Dotenv\\Store\\FileStore
+__construct	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private function __construct(array $paths = [], array $names = [], bool $shortCircuit = fals/;"	f	class:Dotenv\\Store\\StoreBuilder
+__construct	vendor/vlucas/phpdotenv/src/Store/StringStore.php	/^    public function __construct(string $content)$/;"	f	class:Dotenv\\Store\\StringStore
+__construct	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    private function __construct()$/;"	f	class:Dotenv\\Util\\Regex
+__construct	vendor/vlucas/phpdotenv/src/Util/Str.php	/^    private function __construct()$/;"	f	class:Dotenv\\Util\\Str
+__construct	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function __construct(RepositoryInterface $repository, array $variables)$/;"	f	class:Dotenv\\Validator
+__toString	vendor/symfony/polyfill-php80/PhpToken.php	/^    public function __toString(): string$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken	typeref:unknown:string
+__toString	vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php	/^        public function __toString();$/;"	f	interface:Stringable
+add	vendor/composer/ClassLoader.php	/^    public function add($prefix, $paths, $prepend = false)$/;"	f	class:Composer\\Autoload\\ClassLoader
+addAdapter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function addAdapter($adapter)$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+addClassMap	vendor/composer/ClassLoader.php	/^    public function addClassMap(array $classMap)$/;"	f	class:Composer\\Autoload\\ClassLoader
+addName	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public function addName(string $name)$/;"	f	class:Dotenv\\Store\\StoreBuilder
+addPath	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public function addPath(string $path)$/;"	f	class:Dotenv\\Store\\StoreBuilder
+addPsr4	vendor/composer/ClassLoader.php	/^    public function addPsr4($prefix, $paths, $prepend = false)$/;"	f	class:Composer\\Autoload\\ClassLoader
+addReader	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function addReader($reader)$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+addWriter	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function addWriter($writer)$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+allow-plugins	vendor/phpoption/phpoption/composer.json	/^        "allow-plugins": {$/;"	o	object:config
+allow-plugins	vendor/vlucas/phpdotenv/composer.json	/^        "allow-plugins": {$/;"	o	object:config
+allowList	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    private $allowList;$/;"	v	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+allowList	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private $allowList;$/;"	v	class:Dotenv\\Repository\\RepositoryBuilder
+allowList	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function allowList(?array $allowList = null)$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+allowedRegexValues	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function allowedRegexValues(string $regex)$/;"	f	class:Dotenv\\Validator
+allowedValues	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function allowedValues(array $choices)$/;"	f	class:Dotenv\\Validator
+apcuPrefix	vendor/composer/ClassLoader.php	/^    private $apcuPrefix;$/;"	v	class:Composer\\Autoload\\ClassLoader	typeref:unknown:array
+append	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    public function append(string $chars, bool $var)$/;"	f	class:Dotenv\\Parser\\Value
+arguments	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    private $arguments;$/;"	v	class:PhpOption\\LazyOption
+assert	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function assert(callable $callback, string $message)$/;"	f	class:Dotenv\\Validator
+assertEncoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function assertEncoding(string $encoding, string $errorFormat): void$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:void
+assertNullable	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function assertNullable(callable $callback, string $message)$/;"	f	class:Dotenv\\Validator
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.0
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.1
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.2
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.3
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.4
+authors	vendor/composer/installed.json	/^            "authors": [$/;"	a	object:packages.5
+authors	vendor/graham-campbell/result-type/composer.json	/^    "authors": [$/;"	a
+authors	vendor/phpoption/phpoption/composer.json	/^    "authors": [$/;"	a
+authors	vendor/symfony/polyfill-ctype/composer.json	/^    "authors": [$/;"	a
+authors	vendor/symfony/polyfill-mbstring/composer.json	/^    "authors": [$/;"	a
+authors	vendor/symfony/polyfill-php80/composer.json	/^    "authors": [$/;"	a
+authors	vendor/vlucas/phpdotenv/composer.json	/^    "authors": [$/;"	a
+autoload	composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.0
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.1
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.2
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.3
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.4
+autoload	vendor/composer/installed.json	/^            "autoload": {$/;"	o	object:packages.5
+autoload	vendor/graham-campbell/result-type/composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/phpoption/phpoption/composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/symfony/polyfill-ctype/composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/symfony/polyfill-mbstring/composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/symfony/polyfill-php80/composer.json	/^    "autoload": {$/;"	o
+autoload	vendor/vlucas/phpdotenv/composer.json	/^    "autoload": {$/;"	o
+autoload-dev	vendor/graham-campbell/result-type/composer.json	/^    "autoload-dev": {$/;"	o
+autoload-dev	vendor/phpoption/phpoption/composer.json	/^    "autoload-dev": {$/;"	o
+autoload-dev	vendor/vlucas/phpdotenv/composer.json	/^    "autoload-dev": {$/;"	o
+bamarni-bin	vendor/composer/installed.json	/^                "bamarni-bin": {$/;"	o	object:packages.1.extra
+bamarni-bin	vendor/composer/installed.json	/^                "bamarni-bin": {$/;"	o	object:packages.5.extra
+bamarni-bin	vendor/phpoption/phpoption/composer.json	/^        "bamarni-bin": {$/;"	o	object:extra
+bamarni-bin	vendor/vlucas/phpdotenv/composer.json	/^        "bamarni-bin": {$/;"	o	object:extra
+bamarni/composer-bin-plugin	vendor/composer/installed.json	/^                "bamarni\/composer-bin-plugin": "^1.8.2",$/;"	s	object:packages.1.require-dev
+bamarni/composer-bin-plugin	vendor/composer/installed.json	/^                "bamarni\/composer-bin-plugin": "^1.8.2",$/;"	s	object:packages.5.require-dev
+bamarni/composer-bin-plugin	vendor/phpoption/phpoption/composer.json	/^            "bamarni\/composer-bin-plugin": true$/;"	b	object:config.allow-plugins
+bamarni/composer-bin-plugin	vendor/phpoption/phpoption/composer.json	/^        "bamarni\/composer-bin-plugin": "^1.8.2",$/;"	s	object:require-dev
+bamarni/composer-bin-plugin	vendor/vlucas/phpdotenv/composer.json	/^            "bamarni\/composer-bin-plugin": true$/;"	b	object:config.allow-plugins
+bamarni/composer-bin-plugin	vendor/vlucas/phpdotenv/composer.json	/^        "bamarni\/composer-bin-plugin": "^1.8.2",$/;"	s	object:require-dev
+baseDir	vendor/composer/autoload_classmap.php	/^$baseDir = dirname($vendorDir);$/;"	v
+baseDir	vendor/composer/autoload_files.php	/^$baseDir = dirname($vendorDir);$/;"	v
+baseDir	vendor/composer/autoload_namespaces.php	/^$baseDir = dirname($vendorDir);$/;"	v
+baseDir	vendor/composer/autoload_psr4.php	/^$baseDir = dirname($vendorDir);$/;"	v
+bin-links	vendor/composer/installed.json	/^                    "bin-links": true,$/;"	b	object:packages.1.extra.bamarni-bin
+bin-links	vendor/composer/installed.json	/^                    "bin-links": true,$/;"	b	object:packages.5.extra.bamarni-bin
+bin-links	vendor/phpoption/phpoption/composer.json	/^            "bin-links": true,$/;"	b	object:extra.bamarni-bin
+bin-links	vendor/vlucas/phpdotenv/composer.json	/^            "bin-links": true,$/;"	b	object:extra.bamarni-bin
+blank	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    public static function blank()$/;"	f	class:Dotenv\\Parser\\Value
+branch-alias	vendor/composer/installed.json	/^                "branch-alias": {$/;"	o	object:packages.1.extra
+branch-alias	vendor/composer/installed.json	/^                "branch-alias": {$/;"	o	object:packages.5.extra
+branch-alias	vendor/phpoption/phpoption/composer.json	/^        "branch-alias": {$/;"	o	object:extra
+branch-alias	vendor/vlucas/phpdotenv/composer.json	/^        "branch-alias": {$/;"	o	object:extra
+calculateFilling	src/App/Silhouettes.php	/^    public function calculateFilling(): int$/;"	f	class:App\\Silhouettes	typeref:unknown:int
+callback	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    private $callback;$/;"	v	class:PhpOption\\LazyOption
+canGetVendors	vendor/composer/InstalledVersions.php	/^    private static $canGetVendors;$/;"	v	class:Composer\\InstalledVersions
+chars	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    private $chars;$/;"	v	class:Dotenv\\Parser\\Value
+classMap	vendor/composer/ClassLoader.php	/^    private $classMap = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+classMap	vendor/composer/autoload_static.php	/^    public static $classMap = array ($/;"	v	class:Composer\\Autoload\\ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae
+classMapAuthoritative	vendor/composer/ClassLoader.php	/^    private $classMapAuthoritative = false;$/;"	v	class:Composer\\Autoload\\ClassLoader
+classmap	vendor/composer/installed.json	/^                "classmap": [$/;"	a	object:packages.4.autoload
+classmap	vendor/symfony/polyfill-php80/composer.json	/^        "classmap": [ "Resources\/stubs" ]$/;"	a	object:autoload
+clear	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    public function clear(string $name)$/;"	f	class:Dotenv\\Repository\\AdapterRepository
+clear	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^    public function clear(string $name);$/;"	f	interface:Dotenv\\Repository\\RepositoryInterface
+config	vendor/graham-campbell/result-type/composer.json	/^    "config": {$/;"	o
+config	vendor/phpoption/phpoption/composer.json	/^    "config": {$/;"	o
+config	vendor/vlucas/phpdotenv/composer.json	/^    "config": {$/;"	o
+content	vendor/vlucas/phpdotenv/src/Store/StringStore.php	/^    private $content;$/;"	v	class:Dotenv\\Store\\StringStore
+convert_int_to_char_for_ctype	vendor/symfony/polyfill-ctype/Ctype.php	/^    private static function convert_int_to_char_for_ctype($int, $function)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+create	vendor/graham-campbell/result-type/src/Error.php	/^    public static function create($value)$/;"	f	class:GrahamCampbell\\ResultType\\Error
+create	vendor/graham-campbell/result-type/src/Success.php	/^    public static function create($value)$/;"	f	class:GrahamCampbell\\ResultType\\Success
+create	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public static function create($callback, array $arguments = []): self$/;"	f	class:PhpOption\\LazyOption	typeref:class:LazyOption
+create	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public static function create(): self$/;"	f	class:PhpOption\\None	typeref:class:None
+create	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public static function create($value): self$/;"	f	class:PhpOption\\Some	typeref:class:Some
+create	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function create(RepositoryInterface $repository, $paths, $names = null, bool $/;"	f	class:Dotenv\\Dotenv
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php	/^    public static function create();$/;"	f	interface:Dotenv\\Repository\\Adapter\\AdapterInterface
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    public static function create()$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    public static function create()$/;"	f	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^    public static function create()$/;"	f	class:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    public static function create()$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+create	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^    public static function create()$/;"	f	class:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+createArrayBacked	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function createArrayBacked($paths, $names = null, bool $shortCircuit = true, ?/;"	f	class:Dotenv\\Dotenv
+createImmutable	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function createImmutable($paths, $names = null, bool $shortCircuit = true, ?st/;"	f	class:Dotenv\\Dotenv
+createMutable	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function createMutable($paths, $names = null, bool $shortCircuit = true, ?stri/;"	f	class:Dotenv\\Dotenv
+createUnsafeImmutable	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function createUnsafeImmutable($paths, $names = null, bool $shortCircuit = tru/;"	f	class:Dotenv\\Dotenv
+createUnsafeMutable	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function createUnsafeMutable($paths, $names = null, bool $shortCircuit = true,/;"	f	class:Dotenv\\Dotenv
+createWithDefaultAdapters	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public static function createWithDefaultAdapters()$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+createWithDefaultName	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public static function createWithDefaultName()$/;"	f	class:Dotenv\\Store\\StoreBuilder
+createWithNoAdapters	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public static function createWithNoAdapters()$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+createWithNoNames	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public static function createWithNoNames()$/;"	f	class:Dotenv\\Store\\StoreBuilder
+ctype_alnum	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_alnum($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_alnum	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_alnum($text) { return p\\Ctype::ctype_alnum($text); }$/;"	f
+ctype_alnum	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_alnum(mixed $text): bool { return p\\Ctype::ctype_alnum($text); }$/;"	f	typeref:unknown:bool
+ctype_alpha	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_alpha($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_alpha	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_alpha($text) { return p\\Ctype::ctype_alpha($text); }$/;"	f
+ctype_alpha	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_alpha(mixed $text): bool { return p\\Ctype::ctype_alpha($text); }$/;"	f	typeref:unknown:bool
+ctype_cntrl	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_cntrl($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_cntrl	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_cntrl($text) { return p\\Ctype::ctype_cntrl($text); }$/;"	f
+ctype_cntrl	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_cntrl(mixed $text): bool { return p\\Ctype::ctype_cntrl($text); }$/;"	f	typeref:unknown:bool
+ctype_digit	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_digit($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_digit	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_digit($text) { return p\\Ctype::ctype_digit($text); }$/;"	f
+ctype_digit	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_digit(mixed $text): bool { return p\\Ctype::ctype_digit($text); }$/;"	f	typeref:unknown:bool
+ctype_graph	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_graph($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_graph	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_graph($text) { return p\\Ctype::ctype_graph($text); }$/;"	f
+ctype_graph	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_graph(mixed $text): bool { return p\\Ctype::ctype_graph($text); }$/;"	f	typeref:unknown:bool
+ctype_lower	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_lower($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_lower	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_lower($text) { return p\\Ctype::ctype_lower($text); }$/;"	f
+ctype_lower	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_lower(mixed $text): bool { return p\\Ctype::ctype_lower($text); }$/;"	f	typeref:unknown:bool
+ctype_print	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_print($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_print	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_print($text) { return p\\Ctype::ctype_print($text); }$/;"	f
+ctype_print	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_print(mixed $text): bool { return p\\Ctype::ctype_print($text); }$/;"	f	typeref:unknown:bool
+ctype_punct	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_punct($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_punct	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_punct($text) { return p\\Ctype::ctype_punct($text); }$/;"	f
+ctype_punct	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_punct(mixed $text): bool { return p\\Ctype::ctype_punct($text); }$/;"	f	typeref:unknown:bool
+ctype_space	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_space($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_space	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_space($text) { return p\\Ctype::ctype_space($text); }$/;"	f
+ctype_space	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_space(mixed $text): bool { return p\\Ctype::ctype_space($text); }$/;"	f	typeref:unknown:bool
+ctype_upper	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_upper($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_upper	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_upper($text) { return p\\Ctype::ctype_upper($text); }$/;"	f
+ctype_upper	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_upper(mixed $text): bool { return p\\Ctype::ctype_upper($text); }$/;"	f	typeref:unknown:bool
+ctype_xdigit	vendor/symfony/polyfill-ctype/Ctype.php	/^    public static function ctype_xdigit($text)$/;"	f	class:Symfony\\Polyfill\\Ctype\\Ctype
+ctype_xdigit	vendor/symfony/polyfill-ctype/bootstrap.php	/^    function ctype_xdigit($text) { return p\\Ctype::ctype_xdigit($text); }$/;"	f
+ctype_xdigit	vendor/symfony/polyfill-ctype/bootstrap80.php	/^    function ctype_xdigit(mixed $text): bool { return p\\Ctype::ctype_xdigit($text); }$/;"	f	typeref:unknown:bool
+defaultAdapters	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private static function defaultAdapters()$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\MultiWriter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^    public function delete(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+delete	vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php	/^    public function delete(string $name);$/;"	f	interface:Dotenv\\Repository\\Adapter\\WriterInterface
+description	vendor/composer/installed.json	/^            "description": "An Implementation Of The Result Type",$/;"	s	object:packages.0
+description	vendor/composer/installed.json	/^            "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `/;"	s	object:packages.5
+description	vendor/composer/installed.json	/^            "description": "Option Type for PHP",$/;"	s	object:packages.1
+description	vendor/composer/installed.json	/^            "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP ver/;"	s	object:packages.4
+description	vendor/composer/installed.json	/^            "description": "Symfony polyfill for ctype functions",$/;"	s	object:packages.2
+description	vendor/composer/installed.json	/^            "description": "Symfony polyfill for the Mbstring extension",$/;"	s	object:packages.3
+description	vendor/graham-campbell/result-type/composer.json	/^    "description": "An Implementation Of The Result Type",$/;"	s
+description	vendor/phpoption/phpoption/composer.json	/^    "description": "Option Type for PHP",$/;"	s
+description	vendor/symfony/polyfill-ctype/composer.json	/^    "description": "Symfony polyfill for ctype functions",$/;"	s
+description	vendor/symfony/polyfill-mbstring/composer.json	/^    "description": "Symfony polyfill for the Mbstring extension",$/;"	s
+description	vendor/symfony/polyfill-php80/composer.json	/^    "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",$/;"	s
+description	vendor/vlucas/phpdotenv/composer.json	/^    "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER/;"	s
+dev	vendor/composer/installed.json	/^    "dev": true,$/;"	b
+dev-master	vendor/composer/installed.json	/^                    "dev-master": "1.9-dev"$/;"	s	object:packages.1.extra.branch-alias
+dev-master	vendor/composer/installed.json	/^                    "dev-master": "5.6-dev"$/;"	s	object:packages.5.extra.branch-alias
+dev-master	vendor/phpoption/phpoption/composer.json	/^            "dev-master": "1.9-dev"$/;"	s	object:extra.branch-alias
+dev-master	vendor/vlucas/phpdotenv/composer.json	/^            "dev-master": "5.6-dev"$/;"	s	object:extra.branch-alias
+dev-package-names	vendor/composer/installed.json	/^    "dev-package-names": []$/;"	a
+directory	process.php	/^$directory = __DIR__ . DIRECTORY_SEPARATOR . $_ENV['FILE_DIRECTORY'] . DIRECTORY_SEPARATOR;$/;"	v
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.0
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.1
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.2
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.3
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.4
+dist	vendor/composer/installed.json	/^            "dist": {$/;"	o	object:packages.5
+dotenv	process.php	/^$dotenv = Dotenv::createImmutable(__DIR__);$/;"	v
+email	vendor/composer/installed.json	/^                    "email": "BackEndTea@gmail.com"$/;"	s	object:packages.2.authors.0
+email	vendor/composer/installed.json	/^                    "email": "hello@gjcampbell.co.uk",$/;"	s	object:packages.0.authors.0
+email	vendor/composer/installed.json	/^                    "email": "hello@gjcampbell.co.uk",$/;"	s	object:packages.1.authors.1
+email	vendor/composer/installed.json	/^                    "email": "hello@gjcampbell.co.uk",$/;"	s	object:packages.5.authors.0
+email	vendor/composer/installed.json	/^                    "email": "ion.bazan@gmail.com"$/;"	s	object:packages.4.authors.0
+email	vendor/composer/installed.json	/^                    "email": "p@tchwork.com"$/;"	s	object:packages.3.authors.0
+email	vendor/composer/installed.json	/^                    "email": "p@tchwork.com"$/;"	s	object:packages.4.authors.1
+email	vendor/composer/installed.json	/^                    "email": "schmittjoh@gmail.com",$/;"	s	object:packages.1.authors.0
+email	vendor/composer/installed.json	/^                    "email": "vance@vancelucas.com",$/;"	s	object:packages.5.authors.1
+email	vendor/graham-campbell/result-type/composer.json	/^            "email": "hello@gjcampbell.co.uk",$/;"	s	object:authors.0
+email	vendor/phpoption/phpoption/composer.json	/^            "email": "hello@gjcampbell.co.uk",$/;"	s	object:authors.1
+email	vendor/phpoption/phpoption/composer.json	/^            "email": "schmittjoh@gmail.com",$/;"	s	object:authors.0
+email	vendor/symfony/polyfill-ctype/composer.json	/^            "email": "BackEndTea@gmail.com"$/;"	s	object:authors.0
+email	vendor/symfony/polyfill-mbstring/composer.json	/^            "email": "p@tchwork.com"$/;"	s	object:authors.0
+email	vendor/symfony/polyfill-php80/composer.json	/^            "email": "ion.bazan@gmail.com"$/;"	s	object:authors.0
+email	vendor/symfony/polyfill-php80/composer.json	/^            "email": "p@tchwork.com"$/;"	s	object:authors.1
+email	vendor/vlucas/phpdotenv/composer.json	/^            "email": "hello@gjcampbell.co.uk",$/;"	s	object:authors.0
+email	vendor/vlucas/phpdotenv/composer.json	/^            "email": "vance@vancelucas.com",$/;"	s	object:authors.1
+encodingList	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static $encodingList = ['ASCII', 'UTF-8'];$/;"	v	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+ensure	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    public static function ensure($value, $noneValue = null)$/;"	f	class:PhpOption\\Option
+err	vendor/autoload.php	/^    $err = 'Composer 2.3.0 dropped support for autoloading on PHP <5.6 and you are running '.PHP/;"	v
+error	vendor/graham-campbell/result-type/src/Error.php	/^    public function error()$/;"	f	class:GrahamCampbell\\ResultType\\Error
+error	vendor/graham-campbell/result-type/src/Result.php	/^    abstract public function error();$/;"	f	class:GrahamCampbell\\ResultType\\Result
+error	vendor/graham-campbell/result-type/src/Success.php	/^    public function error()$/;"	f	class:GrahamCampbell\\ResultType\\Success
+exists	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    private function exists(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+ext-ctype	vendor/composer/installed.json	/^                "ext-ctype": "*"$/;"	s	object:packages.2.provide
+ext-ctype	vendor/composer/installed.json	/^                "ext-ctype": "For best performance"$/;"	s	object:packages.2.suggest
+ext-ctype	vendor/symfony/polyfill-ctype/composer.json	/^        "ext-ctype": "*"$/;"	s	object:provide
+ext-ctype	vendor/symfony/polyfill-ctype/composer.json	/^        "ext-ctype": "For best performance"$/;"	s	object:suggest
+ext-filter	vendor/composer/installed.json	/^                "ext-filter": "*",$/;"	s	object:packages.5.require-dev
+ext-filter	vendor/composer/installed.json	/^                "ext-filter": "Required to use the boolean validator."$/;"	s	object:packages.5.suggest
+ext-filter	vendor/vlucas/phpdotenv/composer.json	/^        "ext-filter": "*",$/;"	s	object:require-dev
+ext-filter	vendor/vlucas/phpdotenv/composer.json	/^        "ext-filter": "Required to use the boolean validator."$/;"	s	object:suggest
+ext-mbstring	vendor/composer/installed.json	/^                "ext-mbstring": "*"$/;"	s	object:packages.3.provide
+ext-mbstring	vendor/composer/installed.json	/^                "ext-mbstring": "For best performance"$/;"	s	object:packages.3.suggest
+ext-mbstring	vendor/symfony/polyfill-mbstring/composer.json	/^        "ext-mbstring": "*"$/;"	s	object:provide
+ext-mbstring	vendor/symfony/polyfill-mbstring/composer.json	/^        "ext-mbstring": "For best performance"$/;"	s	object:suggest
+ext-pcre	vendor/composer/installed.json	/^                "ext-pcre": "*",$/;"	s	object:packages.5.require
+ext-pcre	vendor/vlucas/phpdotenv/composer.json	/^        "ext-pcre": "*",$/;"	s	object:require
+extra	vendor/composer/installed.json	/^            "extra": {$/;"	o	object:packages.1
+extra	vendor/composer/installed.json	/^            "extra": {$/;"	o	object:packages.2
+extra	vendor/composer/installed.json	/^            "extra": {$/;"	o	object:packages.3
+extra	vendor/composer/installed.json	/^            "extra": {$/;"	o	object:packages.4
+extra	vendor/composer/installed.json	/^            "extra": {$/;"	o	object:packages.5
+extra	vendor/phpoption/phpoption/composer.json	/^    "extra": {$/;"	o
+extra	vendor/symfony/polyfill-ctype/composer.json	/^    "extra": {$/;"	o
+extra	vendor/symfony/polyfill-mbstring/composer.json	/^    "extra": {$/;"	o
+extra	vendor/symfony/polyfill-php80/composer.json	/^    "extra": {$/;"	o
+extra	vendor/vlucas/phpdotenv/composer.json	/^    "extra": {$/;"	o
+fallbackDirsPsr0	vendor/composer/ClassLoader.php	/^    private $fallbackDirsPsr0 = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+fallbackDirsPsr4	vendor/composer/ClassLoader.php	/^    private $fallbackDirsPsr4 = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+fdiv	vendor/symfony/polyfill-php80/Php80.php	/^    public static function fdiv(float $dividend, float $divisor): float$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:float
+fdiv	vendor/symfony/polyfill-php80/bootstrap.php	/^    function fdiv(float $num1, float $num2): float { return p\\Php80::fdiv($num1, $num2); }$/;"	f	typeref:unknown:float
+fileEncoding	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^    private $fileEncoding;$/;"	v	class:Dotenv\\Store\\FileStore
+fileEncoding	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private $fileEncoding;$/;"	v	class:Dotenv\\Store\\StoreBuilder
+fileEncoding	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public function fileEncoding(?string $fileEncoding = null)$/;"	f	class:Dotenv\\Store\\StoreBuilder
+fileExtension	process.php	/^$fileExtension = $_ENV['FILE_EXTENSION'];$/;"	v
+filePaths	vendor/vlucas/phpdotenv/src/Store/File/Paths.php	/^    public static function filePaths(array $paths, array $names)$/;"	f	class:Dotenv\\Store\\File\\Paths
+filePaths	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^    private $filePaths;$/;"	v	class:Dotenv\\Store\\FileStore
+files	process.php	/^$files = glob($directory . '*' . $fileExtension);$/;"	v
+files	vendor/composer/autoload_static.php	/^    public static $files = array ($/;"	v	class:Composer\\Autoload\\ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae
+files	vendor/composer/installed.json	/^                "files": [$/;"	a	object:packages.2.autoload
+files	vendor/composer/installed.json	/^                "files": [$/;"	a	object:packages.3.autoload
+files	vendor/composer/installed.json	/^                "files": [$/;"	a	object:packages.4.autoload
+files	vendor/symfony/polyfill-ctype/composer.json	/^        "files": [ "bootstrap.php" ]$/;"	a	object:autoload
+files	vendor/symfony/polyfill-mbstring/composer.json	/^        "files": [ "bootstrap.php" ]$/;"	a	object:autoload
+files	vendor/symfony/polyfill-php80/composer.json	/^        "files": [ "bootstrap.php" ],$/;"	a	object:autoload
+filter	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function filter($callable)$/;"	f	class:PhpOption\\LazyOption
+filter	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function filter($callable)$/;"	f	class:PhpOption\\None
+filter	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function filter($callable);$/;"	f	class:PhpOption\\Option
+filter	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function filter($callable)$/;"	f	class:PhpOption\\Some
+filterNot	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function filterNot($callable)$/;"	f	class:PhpOption\\LazyOption
+filterNot	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function filterNot($callable)$/;"	f	class:PhpOption\\None
+filterNot	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function filterNot($callable);$/;"	f	class:PhpOption\\Option
+filterNot	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function filterNot($callable)$/;"	f	class:PhpOption\\Some
+findFile	vendor/composer/ClassLoader.php	/^    public function findFile($class)$/;"	f	class:Composer\\Autoload\\ClassLoader
+findFileWithExtension	vendor/composer/ClassLoader.php	/^    private function findFileWithExtension($class, $ext)$/;"	f	class:Composer\\Autoload\\ClassLoader
+flags	vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php	/^    public $flags;$/;"	v	class:Attribute	typeref:unknown:124816326364
+flatMap	vendor/graham-campbell/result-type/src/Error.php	/^    public function flatMap(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Error
+flatMap	vendor/graham-campbell/result-type/src/Result.php	/^    abstract public function flatMap(callable $f);$/;"	f	class:GrahamCampbell\\ResultType\\Result
+flatMap	vendor/graham-campbell/result-type/src/Success.php	/^    public function flatMap(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Success
+flatMap	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function flatMap($callable)$/;"	f	class:PhpOption\\LazyOption
+flatMap	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function flatMap($callable)$/;"	f	class:PhpOption\\None
+flatMap	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function flatMap($callable);$/;"	f	class:PhpOption\\Option
+flatMap	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function flatMap($callable)$/;"	f	class:PhpOption\\Some
+foldLeft	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function foldLeft($initialValue, $callable)$/;"	f	class:PhpOption\\LazyOption
+foldLeft	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function foldLeft($initialValue, $callable)$/;"	f	class:PhpOption\\None
+foldLeft	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function foldLeft($initialValue, $callable);$/;"	f	class:PhpOption\\Option
+foldLeft	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function foldLeft($initialValue, $callable)$/;"	f	class:PhpOption\\Some
+foldRight	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function foldRight($initialValue, $callable)$/;"	f	class:PhpOption\\LazyOption
+foldRight	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function foldRight($initialValue, $callable)$/;"	f	class:PhpOption\\None
+foldRight	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function foldRight($initialValue, $callable);$/;"	f	class:PhpOption\\Option
+foldRight	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function foldRight($initialValue, $callable)$/;"	f	class:PhpOption\\Some
+forAll	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function forAll($callable)$/;"	f	class:PhpOption\\LazyOption
+forAll	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function forAll($callable)$/;"	f	class:PhpOption\\None
+forAll	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function forAll($callable);$/;"	f	class:PhpOption\\Option
+forAll	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function forAll($callable)$/;"	f	class:PhpOption\\Some
+forward-command	vendor/composer/installed.json	/^                    "forward-command": false$/;"	b	object:packages.1.extra.bamarni-bin
+forward-command	vendor/composer/installed.json	/^                    "forward-command": false$/;"	b	object:packages.5.extra.bamarni-bin
+forward-command	vendor/phpoption/phpoption/composer.json	/^            "forward-command": false$/;"	b	object:extra.bamarni-bin
+forward-command	vendor/vlucas/phpdotenv/composer.json	/^            "forward-command": false$/;"	b	object:extra.bamarni-bin
+fromArraysValue	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    public static function fromArraysValue($array, $key)$/;"	f	class:PhpOption\\Option
+fromReturn	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    public static function fromReturn($callback, array $arguments = [], $noneValue = null)$/;"	f	class:PhpOption\\Option
+fromValue	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    public static function fromValue($value, $noneValue = null)$/;"	f	class:PhpOption\\Option
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.0
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.1
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.2
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.3
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.4
+funding	vendor/composer/installed.json	/^            "funding": [$/;"	a	object:packages.5
+get	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function get()$/;"	f	class:PhpOption\\LazyOption
+get	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function get()$/;"	f	class:PhpOption\\None
+get	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function get();$/;"	f	class:PhpOption\\Option
+get	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function get()$/;"	f	class:PhpOption\\Some
+get	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    public function get(string $name)$/;"	f	class:Dotenv\\Repository\\AdapterRepository
+get	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^    public function get(string $name);$/;"	f	interface:Dotenv\\Repository\\RepositoryInterface
+getAllRawData	vendor/composer/InstalledVersions.php	/^    public static function getAllRawData()$/;"	f	class:Composer\\InstalledVersions
+getApcuPrefix	vendor/composer/ClassLoader.php	/^    public function getApcuPrefix()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getChars	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    public function getChars()$/;"	f	class:Dotenv\\Parser\\Value
+getClassMap	vendor/composer/ClassLoader.php	/^    public function getClassMap()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getData	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function getData($file)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+getEncoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function getEncoding($encoding)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+getErrorMessage	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function getErrorMessage(string $cause, string $subject)$/;"	f	class:Dotenv\\Parser\\EntryParser
+getFallbackDirs	vendor/composer/ClassLoader.php	/^    public function getFallbackDirs()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getFallbackDirsPsr4	vendor/composer/ClassLoader.php	/^    public function getFallbackDirsPsr4()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getInitializer	vendor/composer/autoload_static.php	/^    public static function getInitializer(ClassLoader $loader)$/;"	f	class:Composer\\Autoload\\ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae
+getInstallPath	vendor/composer/InstalledVersions.php	/^    public static function getInstallPath($packageName)$/;"	f	class:Composer\\InstalledVersions
+getInstalled	vendor/composer/InstalledVersions.php	/^    private static function getInstalled()$/;"	f	class:Composer\\InstalledVersions
+getInstalledPackages	vendor/composer/InstalledVersions.php	/^    public static function getInstalledPackages()$/;"	f	class:Composer\\InstalledVersions
+getInstalledPackagesByType	vendor/composer/InstalledVersions.php	/^    public static function getInstalledPackagesByType($type)$/;"	f	class:Composer\\InstalledVersions
+getIterator	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function getIterator(): Traversable$/;"	f	class:PhpOption\\LazyOption	typeref:unknown:Traversable
+getIterator	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function getIterator(): EmptyIterator$/;"	f	class:PhpOption\\None	typeref:unknown:EmptyIterator
+getIterator	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function getIterator(): ArrayIterator$/;"	f	class:PhpOption\\Some	typeref:unknown:ArrayIterator
+getLoader	vendor/composer/autoload_real.php	/^    public static function getLoader()$/;"	f	class:ComposerAutoloaderInitd617fd5d9ef9c93f61510a11d2e9f3ae
+getName	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^    public function getName()$/;"	f	class:Dotenv\\Parser\\Entry
+getOrCall	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function getOrCall($callable)$/;"	f	class:PhpOption\\LazyOption
+getOrCall	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function getOrCall($callable)$/;"	f	class:PhpOption\\None
+getOrCall	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function getOrCall($callable);$/;"	f	class:PhpOption\\Option
+getOrCall	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function getOrCall($callable)$/;"	f	class:PhpOption\\Some
+getOrElse	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function getOrElse($default)$/;"	f	class:PhpOption\\LazyOption
+getOrElse	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function getOrElse($default)$/;"	f	class:PhpOption\\None
+getOrElse	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function getOrElse($default);$/;"	f	class:PhpOption\\Option
+getOrElse	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function getOrElse($default)$/;"	f	class:PhpOption\\Some
+getOrThrow	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function getOrThrow(\\Exception $ex)$/;"	f	class:PhpOption\\LazyOption
+getOrThrow	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function getOrThrow(\\Exception $ex)$/;"	f	class:PhpOption\\None
+getOrThrow	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function getOrThrow(\\Exception $ex);$/;"	f	class:PhpOption\\Option
+getOrThrow	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function getOrThrow(\\Exception $ex)$/;"	f	class:PhpOption\\Some
+getPrefixes	vendor/composer/ClassLoader.php	/^    public function getPrefixes()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getPrefixesPsr4	vendor/composer/ClassLoader.php	/^    public function getPrefixesPsr4()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getPrettyVersion	vendor/composer/InstalledVersions.php	/^    public static function getPrettyVersion($packageName)$/;"	f	class:Composer\\InstalledVersions
+getRawData	vendor/composer/InstalledVersions.php	/^    public static function getRawData()$/;"	f	class:Composer\\InstalledVersions
+getReference	vendor/composer/InstalledVersions.php	/^    public static function getReference($packageName)$/;"	f	class:Composer\\InstalledVersions
+getRegisteredLoaders	vendor/composer/ClassLoader.php	/^    public static function getRegisteredLoaders()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getRootPackage	vendor/composer/InstalledVersions.php	/^    public static function getRootPackage()$/;"	f	class:Composer\\InstalledVersions
+getSubpart	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function getSubpart($pos, $part, $haystack, $encoding)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+getTokenName	vendor/symfony/polyfill-php80/PhpToken.php	/^    public function getTokenName(): ?string$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken	typeref:unknown:?string
+getUseIncludePath	vendor/composer/ClassLoader.php	/^    public function getUseIncludePath()$/;"	f	class:Composer\\Autoload\\ClassLoader
+getValue	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^    public function getValue()$/;"	f	class:Dotenv\\Parser\\Entry
+getVars	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    public function getVars()$/;"	f	class:Dotenv\\Parser\\Value
+getVersion	vendor/composer/InstalledVersions.php	/^    public static function getVersion($packageName)$/;"	f	class:Composer\\InstalledVersions
+getVersionRanges	vendor/composer/InstalledVersions.php	/^    public static function getVersionRanges($packageName)$/;"	f	class:Composer\\InstalledVersions
+get_debug_type	vendor/symfony/polyfill-php80/Php80.php	/^    public static function get_debug_type($value): string$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:string
+get_debug_type	vendor/symfony/polyfill-php80/bootstrap.php	/^    function get_debug_type($value): string { return p\\Php80::get_debug_type($value); }$/;"	f	typeref:unknown:string
+get_resource_id	vendor/symfony/polyfill-php80/Php80.php	/^    public static function get_resource_id($res): int$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:int
+get_resource_id	vendor/symfony/polyfill-php80/bootstrap.php	/^    function get_resource_id($resource): int { return p\\Php80::get_resource_id($resource); }$/;"	f	typeref:unknown:int
+graham-campbell/result-type	vendor/composer/installed.json	/^                "graham-campbell\/result-type": "^1.1.3",$/;"	s	object:packages.5.require
+graham-campbell/result-type	vendor/vlucas/phpdotenv/composer.json	/^        "graham-campbell\/result-type": "^1.1.3",$/;"	s	object:require
+has	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    public function has(string $name)$/;"	f	class:Dotenv\\Repository\\AdapterRepository
+has	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^    public function has(string $name);$/;"	f	interface:Dotenv\\Repository\\RepositoryInterface
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:packages.0.authors.0
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:packages.1.authors.1
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:packages.5.authors.0
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/github.com\/schmittjoh"$/;"	s	object:packages.1.authors.0
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/github.com\/vlucas"$/;"	s	object:packages.5.authors.1
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:packages.2.authors.1
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:packages.3.authors.1
+homepage	vendor/composer/installed.json	/^                    "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:packages.4.authors.2
+homepage	vendor/composer/installed.json	/^            "homepage": "https:\/\/symfony.com",$/;"	s	object:packages.2
+homepage	vendor/composer/installed.json	/^            "homepage": "https:\/\/symfony.com",$/;"	s	object:packages.3
+homepage	vendor/composer/installed.json	/^            "homepage": "https:\/\/symfony.com",$/;"	s	object:packages.4
+homepage	vendor/graham-campbell/result-type/composer.json	/^            "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:authors.0
+homepage	vendor/phpoption/phpoption/composer.json	/^            "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:authors.1
+homepage	vendor/phpoption/phpoption/composer.json	/^            "homepage": "https:\/\/github.com\/schmittjoh"$/;"	s	object:authors.0
+homepage	vendor/symfony/polyfill-ctype/composer.json	/^            "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:authors.1
+homepage	vendor/symfony/polyfill-ctype/composer.json	/^    "homepage": "https:\/\/symfony.com",$/;"	s
+homepage	vendor/symfony/polyfill-mbstring/composer.json	/^            "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:authors.1
+homepage	vendor/symfony/polyfill-mbstring/composer.json	/^    "homepage": "https:\/\/symfony.com",$/;"	s
+homepage	vendor/symfony/polyfill-php80/composer.json	/^            "homepage": "https:\/\/symfony.com\/contributors"$/;"	s	object:authors.2
+homepage	vendor/symfony/polyfill-php80/composer.json	/^    "homepage": "https:\/\/symfony.com",$/;"	s
+homepage	vendor/vlucas/phpdotenv/composer.json	/^            "homepage": "https:\/\/github.com\/GrahamCampbell"$/;"	s	object:authors.0
+homepage	vendor/vlucas/phpdotenv/composer.json	/^            "homepage": "https:\/\/github.com\/vlucas"$/;"	s	object:authors.1
+html_encoding_callback	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function html_encoding_callback(array $m)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+id	vendor/symfony/polyfill-php80/PhpToken.php	/^    public $id;$/;"	v	class:Symfony\\Polyfill\\Php80\\PhpToken
+ifDefined	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function ifDefined($callable)$/;"	f	class:PhpOption\\LazyOption
+ifDefined	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function ifDefined($callable)$/;"	f	class:PhpOption\\None
+ifDefined	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function ifDefined($callable);$/;"	f	class:PhpOption\\Option
+ifDefined	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function ifDefined($callable)$/;"	f	class:PhpOption\\Some
+ifPresent	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public function ifPresent($variables)$/;"	f	class:Dotenv\\Dotenv
+immutable	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private $immutable;$/;"	v	class:Dotenv\\Repository\\RepositoryBuilder
+immutable	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function immutable()$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+includeFile	vendor/composer/ClassLoader.php	/^    private static $includeFile;$/;"	v	class:Composer\\Autoload\\ClassLoader
+initializeIncludeClosure	vendor/composer/ClassLoader.php	/^    private static function initializeIncludeClosure()$/;"	f	class:Composer\\Autoload\\ClassLoader
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/graham-campbell\/result-type"$/;"	s	object:packages.0
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/phpoption\/phpoption"$/;"	s	object:packages.1
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/symfony\/polyfill-ctype"$/;"	s	object:packages.2
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/symfony\/polyfill-mbstring"$/;"	s	object:packages.3
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/symfony\/polyfill-php80"$/;"	s	object:packages.4
+install-path	vendor/composer/installed.json	/^            "install-path": "..\/vlucas\/phpdotenv"$/;"	s	object:packages.5
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.0
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.1
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.2
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.3
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.4
+installation-source	vendor/composer/installed.json	/^            "installation-source": "dist",$/;"	s	object:packages.5
+installed	vendor/composer/InstalledVersions.php	/^    private static $installed;$/;"	v	class:Composer\\InstalledVersions
+installedByVendor	vendor/composer/InstalledVersions.php	/^    private static $installedByVendor = array();$/;"	v	class:Composer\\InstalledVersions
+instance	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    private static $instance;$/;"	v	class:PhpOption\\None
+internalEncoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static $internalEncoding = 'UTF-8';$/;"	v	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+is	vendor/symfony/polyfill-php80/PhpToken.php	/^    public function is($kind): bool$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken	typeref:unknown:bool
+isAllowed	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    private function isAllowed(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+isAnAdapterClass	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private static function isAnAdapterClass(string $name)$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+isBoolean	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function isBoolean()$/;"	f	class:Dotenv\\Validator
+isClassMapAuthoritative	vendor/composer/ClassLoader.php	/^    public function isClassMapAuthoritative()$/;"	f	class:Composer\\Autoload\\ClassLoader
+isCommentOrWhitespace	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    private static function isCommentOrWhitespace(string $line)$/;"	f	class:Dotenv\\Parser\\Lines
+isDefined	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function isDefined(): bool$/;"	f	class:PhpOption\\LazyOption	typeref:unknown:bool
+isDefined	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function isDefined(): bool$/;"	f	class:PhpOption\\None	typeref:unknown:bool
+isDefined	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function isDefined();$/;"	f	class:PhpOption\\Option
+isDefined	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function isDefined(): bool$/;"	f	class:PhpOption\\Some	typeref:unknown:bool
+isEmpty	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function isEmpty(): bool$/;"	f	class:PhpOption\\LazyOption	typeref:unknown:bool
+isEmpty	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function isEmpty(): bool$/;"	f	class:PhpOption\\None	typeref:unknown:bool
+isEmpty	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function isEmpty();$/;"	f	class:PhpOption\\Option
+isEmpty	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function isEmpty(): bool$/;"	f	class:PhpOption\\Some	typeref:unknown:bool
+isExternallyDefined	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    private function isExternallyDefined(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+isIgnorable	vendor/symfony/polyfill-php80/PhpToken.php	/^    public function isIgnorable(): bool$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken	typeref:unknown:bool
+isInstalled	vendor/composer/InstalledVersions.php	/^    public static function isInstalled($packageName, $includeDevRequirements = true)$/;"	f	class:Composer\\InstalledVersions
+isInteger	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function isInteger()$/;"	f	class:Dotenv\\Validator
+isQuotedName	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function isQuotedName(string $name)$/;"	f	class:Dotenv\\Parser\\EntryParser
+isSupported	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    private static function isSupported()$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+isSupported	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    private static function isSupported()$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+isValidName	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function isValidName(string $name)$/;"	f	class:Dotenv\\Parser\\EntryParser
+issues	vendor/composer/installed.json	/^                "issues": "https:\/\/github.com\/GrahamCampbell\/Result-Type\/issues",$/;"	s	object:packages.0.support
+issues	vendor/composer/installed.json	/^                "issues": "https:\/\/github.com\/schmittjoh\/php-option\/issues",$/;"	s	object:packages.1.support
+issues	vendor/composer/installed.json	/^                "issues": "https:\/\/github.com\/vlucas\/phpdotenv\/issues",$/;"	s	object:packages.5.support
+issues	vendor/composer/platform_check.php	/^$issues = array();$/;"	v
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.0
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.1
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.2
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.3
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.4
+keywords	vendor/composer/installed.json	/^            "keywords": [$/;"	a	object:packages.5
+keywords	vendor/graham-campbell/result-type/composer.json	/^    "keywords": ["result", "result-type", "Result", "Result Type", "Result-Type", "Graham Campbe/;"	a
+keywords	vendor/phpoption/phpoption/composer.json	/^    "keywords": ["php", "option", "language", "type"],$/;"	a
+keywords	vendor/symfony/polyfill-ctype/composer.json	/^    "keywords": ["polyfill", "compatibility", "portable", "ctype"],$/;"	a
+keywords	vendor/symfony/polyfill-mbstring/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],$/;"	a
+keywords	vendor/symfony/polyfill-php80/composer.json	/^    "keywords": ["polyfill", "shim", "compatibility", "portable"],$/;"	a
+keywords	vendor/vlucas/phpdotenv/composer.json	/^    "keywords": ["env", "dotenv", "environment"],$/;"	a
+language	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static $language = 'neutral';$/;"	v	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+len	vendor/vlucas/phpdotenv/src/Util/Str.php	/^    public static function len(string $input)$/;"	f	class:Dotenv\\Util\\Str
+lex	vendor/vlucas/phpdotenv/src/Parser/Lexer.php	/^    public static function lex(string $content)$/;"	f	class:Dotenv\\Parser\\Lexer
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.0
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.1
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.2
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.3
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.4
+license	vendor/composer/installed.json	/^            "license": [$/;"	a	object:packages.5
+license	vendor/graham-campbell/result-type/composer.json	/^    "license": "MIT",$/;"	s
+license	vendor/phpoption/phpoption/composer.json	/^    "license": "Apache-2.0",$/;"	s
+license	vendor/symfony/polyfill-ctype/composer.json	/^    "license": "MIT",$/;"	s
+license	vendor/symfony/polyfill-mbstring/composer.json	/^    "license": "MIT",$/;"	s
+license	vendor/symfony/polyfill-php80/composer.json	/^    "license": "MIT",$/;"	s
+license	vendor/vlucas/phpdotenv/composer.json	/^    "license": "BSD-3-Clause",$/;"	s
+lift	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    public static function lift($callback, $noneValue = null)$/;"	f	class:PhpOption\\Option
+line	vendor/symfony/polyfill-php80/PhpToken.php	/^    public $line;$/;"	v	class:Symfony\\Polyfill\\Php80\\PhpToken
+load	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public function load()$/;"	f	class:Dotenv\\Dotenv
+load	vendor/vlucas/phpdotenv/src/Loader/Loader.php	/^    public function load(RepositoryInterface $repository, array $entries)$/;"	f	class:Dotenv\\Loader\\Loader
+load	vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php	/^    public function load(RepositoryInterface $repository, array $entries);$/;"	f	interface:Dotenv\\Loader\\LoaderInterface
+loadClass	vendor/composer/ClassLoader.php	/^    public function loadClass($class)$/;"	f	class:Composer\\Autoload\\ClassLoader
+loadClassLoader	vendor/composer/autoload_real.php	/^    public static function loadClassLoader($class)$/;"	f	class:ComposerAutoloaderInitd617fd5d9ef9c93f61510a11d2e9f3ae
+loaded	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    private $loaded;$/;"	v	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+loader	vendor/composer/autoload_real.php	/^    private static $loader;$/;"	v	class:ComposerAutoloaderInitd617fd5d9ef9c93f61510a11d2e9f3ae
+loader	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    private $loader;$/;"	v	class:Dotenv\\Dotenv
+looksLikeMultilineStart	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    private static function looksLikeMultilineStart(string $line)$/;"	f	class:Dotenv\\Parser\\Lines
+looksLikeMultilineStop	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    private static function looksLikeMultilineStop(string $line, bool $started)$/;"	f	class:Dotenv\\Parser\\Lines
+make	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    public function make()$/;"	f	class:Dotenv\\Repository\\RepositoryBuilder
+make	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public function make()$/;"	f	class:Dotenv\\Store\\StoreBuilder
+map	vendor/graham-campbell/result-type/src/Error.php	/^    public function map(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Error
+map	vendor/graham-campbell/result-type/src/Result.php	/^    abstract public function map(callable $f);$/;"	f	class:GrahamCampbell\\ResultType\\Result
+map	vendor/graham-campbell/result-type/src/Success.php	/^    public function map(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Success
+map	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function map($callable)$/;"	f	class:PhpOption\\LazyOption
+map	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function map($callable)$/;"	f	class:PhpOption\\None
+map	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function map($callable);$/;"	f	class:PhpOption\\Option
+map	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function map($callable)$/;"	f	class:PhpOption\\Some
+mapError	vendor/graham-campbell/result-type/src/Error.php	/^    public function mapError(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Error
+mapError	vendor/graham-campbell/result-type/src/Result.php	/^    abstract public function mapError(callable $f);$/;"	f	class:GrahamCampbell\\ResultType\\Result
+mapError	vendor/graham-campbell/result-type/src/Success.php	/^    public function mapError(callable $f)$/;"	f	class:GrahamCampbell\\ResultType\\Success
+matches	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    public static function matches(string $pattern, string $subject)$/;"	f	class:Dotenv\\Util\\Regex
+mb_check_encoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_check_encoding($var = null, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_check_encoding	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_check_encoding($value = null, $encoding = null) { return p\\Mbstring::mb_check_e/;"	f
+mb_check_encoding	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_check_encoding(array|string|null $value = null, ?string $encoding = null): bool /;"	f	typeref:unknown:bool
+mb_chr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_chr($code, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_chr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_chr($codepoint, $encoding = null) { return p\\Mbstring::mb_chr($codepoint, $enco/;"	f
+mb_chr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_chr(?int $codepoint, ?string $encoding = null): string|false { return p\\Mbstrin/;"	f	typeref:unknown:string
+mb_convert_case	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_convert_case($s, $mode, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_convert_case	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_convert_case($string, $mode, $encoding = null) { return p\\Mbstring::mb_convert_/;"	f
+mb_convert_case	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_convert_case(?string $string, ?int $mode, ?string $encoding = null): string { re/;"	f	typeref:unknown:string
+mb_convert_encoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_convert_encoding($s, $toEncoding, $fromEncoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_convert_encoding	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_convert_encoding($string, $to_encoding, $from_encoding = null) { return p\\Mbstr/;"	f
+mb_convert_encoding	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_convert_encoding(array|string|null $string, ?string $to_encoding, array|string|n/;"	f	typeref:unknown:array
+mb_convert_variables	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_convert_variables($toEncoding, $fromEncoding, &...$vars)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_convert_variables	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_convert_variables($to_encoding, $from_encoding, &...$vars) { return p\\Mbstring:/;"	f
+mb_convert_variables	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_convert_variables(?string $to_encoding, array|string|null $from_encoding, mixed /;"	f	typeref:unknown:string
+mb_decode_mimeheader	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_decode_mimeheader($s)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_decode_mimeheader	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_decode_mimeheader($string) { return p\\Mbstring::mb_decode_mimeheader($string); /;"	f
+mb_decode_mimeheader	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_decode_mimeheader(?string $string): string { return p\\Mbstring::mb_decode_mimeh/;"	f	typeref:unknown:string
+mb_decode_numericentity	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_decode_numericentity($s, $convmap, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_decode_numericentity	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_decode_numericentity($string, $map, $encoding = null) { return p\\Mbstring::mb_d/;"	f
+mb_decode_numericentity	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_decode_numericentity(?string $string, array $map, ?string $encoding = null): str/;"	f	typeref:unknown:string
+mb_detect_encoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_detect_encoding($str, $encodingList = null, $strict = false)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_detect_encoding	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_detect_encoding($string, $encodings = null, $strict = false) { return p\\Mbstrin/;"	f
+mb_detect_encoding	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_detect_encoding(?string $string, array|string|null $encodings = null, ?bool $str/;"	f	typeref:unknown:string
+mb_detect_order	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_detect_order($encodingList = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_detect_order	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_detect_order($encoding = null) { return p\\Mbstring::mb_detect_order($encoding);/;"	f
+mb_detect_order	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_detect_order(array|string|null $encoding = null): array|bool { return p\\Mbstrin/;"	f	typeref:unknown:array
+mb_encode_mimeheader	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_encode_mimeheader($s, $charset = null, $transferEncoding = null, $/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_encode_mimeheader	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_encode_mimeheader($string, $charset = null, $transfer_encoding = null, $newline /;"	f
+mb_encode_mimeheader	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_encode_mimeheader(?string $string, ?string $charset = null, ?string $transfer_en/;"	f	typeref:unknown:string
+mb_encode_numericentity	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_encode_numericentity($s, $convmap, $encoding = null, $is_hex = fal/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_encode_numericentity	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_encode_numericentity($string, $map, $encoding = null, $hex = false) { return p\\/;"	f
+mb_encode_numericentity	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_encode_numericentity(?string $string, array $map, ?string $encoding = null, ?boo/;"	f	typeref:unknown:string
+mb_encoding_aliases	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_encoding_aliases($encoding)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_encoding_aliases	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_encoding_aliases($encoding) { return p\\Mbstring::mb_encoding_aliases($encoding)/;"	f
+mb_encoding_aliases	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_encoding_aliases(?string $encoding): array { return p\\Mbstring::mb_encoding_ali/;"	f	typeref:unknown:array
+mb_get_info	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_get_info($type = 'all')$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_get_info	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_get_info($type = 'all') { return p\\Mbstring::mb_get_info($type); }$/;"	f
+mb_get_info	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_get_info(?string $type = 'all'): array|string|int|false|null { return p\\Mbstrin/;"	f	typeref:unknown:array
+mb_http_input	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_http_input($type = '')$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_http_input	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_http_input($type = null) { return p\\Mbstring::mb_http_input($type); }$/;"	f
+mb_http_input	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_http_input(?string $type = null): array|string|false { return p\\Mbstring::mb_ht/;"	f	typeref:unknown:array
+mb_http_output	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_http_output($encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_http_output	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_http_output($encoding = null) { return p\\Mbstring::mb_http_output($encoding); }$/;"	f
+mb_http_output	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_http_output(?string $encoding = null): string|bool { return p\\Mbstring::mb_http/;"	f	typeref:unknown:string
+mb_internal_encoding	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_internal_encoding($encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_internal_encoding	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_internal_encoding($encoding = null) { return p\\Mbstring::mb_internal_encoding($/;"	f
+mb_internal_encoding	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_internal_encoding(?string $encoding = null): string|bool { return p\\Mbstring::m/;"	f	typeref:unknown:string
+mb_internal_trim	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function mb_internal_trim(string $regex, string $string, ?string $characters,/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_language	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_language($lang = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_language	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_language($language = null) { return p\\Mbstring::mb_language($language); }$/;"	f
+mb_language	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_language(?string $language = null): string|bool { return p\\Mbstring::mb_languag/;"	f	typeref:unknown:string
+mb_lcfirst	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_lcfirst(string $string, ?string $encoding = null): string$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_lcfirst	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_lcfirst(string $string, ?string $encoding = null): string { return p\\Mbstring::/;"	f	typeref:unknown:string
+mb_lcfirst	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_lcfirst($string, ?string $encoding = null): string { return p\\Mbstring::mb_lcfi/;"	f	typeref:unknown:string
+mb_list_encodings	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_list_encodings()$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_list_encodings	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_list_encodings() { return p\\Mbstring::mb_list_encodings(); }$/;"	f
+mb_list_encodings	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_list_encodings(): array { return p\\Mbstring::mb_list_encodings(); }$/;"	f	typeref:unknown:array
+mb_ltrim	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_ltrim(string $string, ?string $characters = null, ?string $encodin/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_ltrim	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_ltrim(string $string, ?string $characters = null, ?string $encoding = null): str/;"	f	typeref:unknown:string
+mb_ltrim	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_ltrim(string $string, ?string $characters = null, ?string $encoding = null): str/;"	f	typeref:unknown:string
+mb_ord	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_ord($s, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_ord	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_ord($string, $encoding = null) { return p\\Mbstring::mb_ord($string, $encoding);/;"	f
+mb_ord	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_ord(?string $string, ?string $encoding = null): int|false { return p\\Mbstring::/;"	f	typeref:unknown:int
+mb_output_handler	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_output_handler($contents, $status)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_output_handler	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_output_handler($string, $status) { return p\\Mbstring::mb_output_handler($string/;"	f
+mb_output_handler	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_output_handler(?string $string, ?int $status): string { return p\\Mbstring::mb_o/;"	f	typeref:unknown:string
+mb_parse_str	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_parse_str($string, &$result = []) { parse_str($string, $result); return (bool) $/;"	f
+mb_parse_str	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_parse_str(?string $string, &$result = []): bool { parse_str((string) $string, $r/;"	f	typeref:unknown:bool
+mb_rtrim	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_rtrim(string $string, ?string $characters = null, ?string $encodin/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_rtrim	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_rtrim(string $string, ?string $characters = null, ?string $encoding = null): str/;"	f	typeref:unknown:string
+mb_rtrim	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_rtrim(string $string, ?string $characters = null, ?string $encoding = null): str/;"	f	typeref:unknown:string
+mb_scrub	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_scrub($string, $encoding = null) { $encoding = null === $encoding ? mb_internal_/;"	f
+mb_scrub	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_scrub(?string $string, ?string $encoding = null): string { $encoding ??= mb_inte/;"	f	typeref:unknown:string
+mb_str_pad	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_str_pad(string $string, int $length, string $pad_string = ' ', int/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_str_pad	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_str_pad(string $string, int $length, string $pad_string = ' ', int $pad_type = S/;"	f	typeref:unknown:string
+mb_str_pad	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_str_pad(string $string, int $length, string $pad_string = ' ', int $pad_type = S/;"	f	typeref:unknown:string
+mb_str_split	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_str_split($string, $split_length = 1, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_str_split	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_str_split($string, $length = 1, $encoding = null) { return p\\Mbstring::mb_str_s/;"	f
+mb_str_split	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_str_split(?string $string, ?int $length = 1, ?string $encoding = null): array { /;"	f	typeref:unknown:array
+mb_stripos	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_stripos($haystack, $needle, $offset = 0, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_stripos	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_stripos($haystack, $needle, $offset = 0, $encoding = null) { return p\\Mbstring:/;"	f
+mb_stripos	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_stripos(?string $haystack, ?string $needle, ?int $offset = 0, ?string $encoding /;"	f	typeref:unknown:int
+mb_stristr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_stristr($haystack, $needle, $part = false, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_stristr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_stristr($haystack, $needle, $before_needle = false, $encoding = null) { return p/;"	f
+mb_stristr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_stristr(?string $haystack, ?string $needle, ?bool $before_needle = false, ?strin/;"	f	typeref:unknown:string
+mb_strlen	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strlen($s, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strlen	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strlen($string, $encoding = null) { return p\\Mbstring::mb_strlen($string, $enco/;"	f
+mb_strlen	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strlen(?string $string, ?string $encoding = null): int { return p\\Mbstring::mb_/;"	f	typeref:unknown:int
+mb_strpos	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strpos($haystack, $needle, $offset = 0, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strpos	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strpos($haystack, $needle, $offset = 0, $encoding = null) { return p\\Mbstring::/;"	f
+mb_strpos	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strpos(?string $haystack, ?string $needle, ?int $offset = 0, ?string $encoding =/;"	f	typeref:unknown:int
+mb_strrchr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strrchr($haystack, $needle, $part = false, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strrchr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strrchr($haystack, $needle, $before_needle = false, $encoding = null) { return p/;"	f
+mb_strrchr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strrchr(?string $haystack, ?string $needle, ?bool $before_needle = false, ?strin/;"	f	typeref:unknown:string
+mb_strrichr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strrichr($haystack, $needle, $part = false, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strrichr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strrichr($haystack, $needle, $before_needle = false, $encoding = null) { return /;"	f
+mb_strrichr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strrichr(?string $haystack, ?string $needle, ?bool $before_needle = false, ?stri/;"	f	typeref:unknown:string
+mb_strripos	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strripos($haystack, $needle, $offset = 0, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strripos	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strripos($haystack, $needle, $offset = 0, $encoding = null) { return p\\Mbstring/;"	f
+mb_strripos	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strripos(?string $haystack, ?string $needle, ?int $offset = 0, ?string $encoding/;"	f	typeref:unknown:int
+mb_strrpos	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strrpos($haystack, $needle, $offset = 0, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strrpos	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strrpos($haystack, $needle, $offset = 0, $encoding = null) { return p\\Mbstring:/;"	f
+mb_strrpos	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strrpos(?string $haystack, ?string $needle, ?int $offset = 0, ?string $encoding /;"	f	typeref:unknown:int
+mb_strstr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strstr($haystack, $needle, $part = false, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strstr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strstr($haystack, $needle, $before_needle = false, $encoding = null) { return p\\/;"	f
+mb_strstr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strstr(?string $haystack, ?string $needle, ?bool $before_needle = false, ?string/;"	f	typeref:unknown:string
+mb_strtolower	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strtolower($s, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strtolower	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strtolower($string, $encoding = null) { return p\\Mbstring::mb_strtolower($strin/;"	f
+mb_strtolower	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strtolower(?string $string, ?string $encoding = null): string { return p\\Mbstri/;"	f	typeref:unknown:string
+mb_strtoupper	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strtoupper($s, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strtoupper	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strtoupper($string, $encoding = null) { return p\\Mbstring::mb_strtoupper($strin/;"	f
+mb_strtoupper	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strtoupper(?string $string, ?string $encoding = null): string { return p\\Mbstri/;"	f	typeref:unknown:string
+mb_strwidth	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_strwidth($s, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_strwidth	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_strwidth($string, $encoding = null) { return p\\Mbstring::mb_strwidth($string, $/;"	f
+mb_strwidth	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_strwidth(?string $string, ?string $encoding = null): int { return p\\Mbstring::m/;"	f	typeref:unknown:int
+mb_substitute_character	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_substitute_character($c = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_substitute_character	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_substitute_character($substitute_character = null) { return p\\Mbstring::mb_subs/;"	f
+mb_substitute_character	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_substitute_character(string|int|null $substitute_character = null): string|int|b/;"	f	typeref:unknown:string
+mb_substr	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_substr($s, $start, $length = null, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_substr	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_substr($string, $start, $length = 2147483647, $encoding = null) { return p\\Mbst/;"	f
+mb_substr	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_substr(?string $string, ?int $start, ?int $length = null, ?string $encoding = nu/;"	f	typeref:unknown:string
+mb_substr_count	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_substr_count($haystack, $needle, $encoding = null)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+mb_substr_count	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_substr_count($haystack, $needle, $encoding = null) { return p\\Mbstring::mb_subs/;"	f
+mb_substr_count	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_substr_count(?string $haystack, ?string $needle, ?string $encoding = null): int /;"	f	typeref:unknown:int
+mb_trim	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_trim(string $string, ?string $characters = null, ?string $encoding/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_trim	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_trim(string $string, ?string $characters = null, ?string $encoding = null): stri/;"	f	typeref:unknown:string
+mb_trim	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_trim(string $string, ?string $characters = null, ?string $encoding = null): stri/;"	f	typeref:unknown:string
+mb_ucfirst	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    public static function mb_ucfirst(string $string, ?string $encoding = null): string$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring	typeref:unknown:string
+mb_ucfirst	vendor/symfony/polyfill-mbstring/bootstrap.php	/^    function mb_ucfirst(string $string, ?string $encoding = null): string { return p\\Mbstring::/;"	f	typeref:unknown:string
+mb_ucfirst	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^    function mb_ucfirst($string, ?string $encoding = null): string { return p\\Mbstring::mb_ucfi/;"	f	typeref:unknown:string
+minimum-stability	vendor/symfony/polyfill-ctype/composer.json	/^    "minimum-stability": "dev",$/;"	s
+minimum-stability	vendor/symfony/polyfill-mbstring/composer.json	/^    "minimum-stability": "dev",$/;"	s
+minimum-stability	vendor/symfony/polyfill-php80/composer.json	/^    "minimum-stability": "dev",$/;"	s
+missingClasses	vendor/composer/ClassLoader.php	/^    private $missingClasses = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+multilineProcess	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    private static function multilineProcess(bool $multiline, string $line, array $buffer)$/;"	f	class:Dotenv\\Parser\\Lines
+name	vendor/composer/installed.json	/^                    "name": "Gert de Pagter",$/;"	s	object:packages.2.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Graham Campbell",$/;"	s	object:packages.0.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Graham Campbell",$/;"	s	object:packages.1.authors.1
+name	vendor/composer/installed.json	/^                    "name": "Graham Campbell",$/;"	s	object:packages.5.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Ion Bazan",$/;"	s	object:packages.4.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Johannes M. Schmitt",$/;"	s	object:packages.1.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Nicolas Grekas",$/;"	s	object:packages.3.authors.0
+name	vendor/composer/installed.json	/^                    "name": "Nicolas Grekas",$/;"	s	object:packages.4.authors.1
+name	vendor/composer/installed.json	/^                    "name": "Symfony Community",$/;"	s	object:packages.2.authors.1
+name	vendor/composer/installed.json	/^                    "name": "Symfony Community",$/;"	s	object:packages.3.authors.1
+name	vendor/composer/installed.json	/^                    "name": "Symfony Community",$/;"	s	object:packages.4.authors.2
+name	vendor/composer/installed.json	/^                    "name": "Vance Lucas",$/;"	s	object:packages.5.authors.1
+name	vendor/composer/installed.json	/^                    "name": "symfony\/polyfill"$/;"	s	object:packages.2.extra.thanks
+name	vendor/composer/installed.json	/^                    "name": "symfony\/polyfill"$/;"	s	object:packages.3.extra.thanks
+name	vendor/composer/installed.json	/^                    "name": "symfony\/polyfill"$/;"	s	object:packages.4.extra.thanks
+name	vendor/composer/installed.json	/^            "name": "graham-campbell\/result-type",$/;"	s	object:packages.0
+name	vendor/composer/installed.json	/^            "name": "phpoption\/phpoption",$/;"	s	object:packages.1
+name	vendor/composer/installed.json	/^            "name": "symfony\/polyfill-ctype",$/;"	s	object:packages.2
+name	vendor/composer/installed.json	/^            "name": "symfony\/polyfill-mbstring",$/;"	s	object:packages.3
+name	vendor/composer/installed.json	/^            "name": "symfony\/polyfill-php80",$/;"	s	object:packages.4
+name	vendor/composer/installed.json	/^            "name": "vlucas\/phpdotenv",$/;"	s	object:packages.5
+name	vendor/graham-campbell/result-type/composer.json	/^            "name": "Graham Campbell",$/;"	s	object:authors.0
+name	vendor/graham-campbell/result-type/composer.json	/^    "name": "graham-campbell\/result-type",$/;"	s
+name	vendor/phpoption/phpoption/composer.json	/^            "name": "Graham Campbell",$/;"	s	object:authors.1
+name	vendor/phpoption/phpoption/composer.json	/^            "name": "Johannes M. Schmitt",$/;"	s	object:authors.0
+name	vendor/phpoption/phpoption/composer.json	/^    "name": "phpoption\/phpoption",$/;"	s
+name	vendor/symfony/polyfill-ctype/composer.json	/^            "name": "Gert de Pagter",$/;"	s	object:authors.0
+name	vendor/symfony/polyfill-ctype/composer.json	/^            "name": "Symfony Community",$/;"	s	object:authors.1
+name	vendor/symfony/polyfill-ctype/composer.json	/^            "name": "symfony\/polyfill",$/;"	s	object:extra.thanks
+name	vendor/symfony/polyfill-ctype/composer.json	/^    "name": "symfony\/polyfill-ctype",$/;"	s
+name	vendor/symfony/polyfill-mbstring/composer.json	/^            "name": "Nicolas Grekas",$/;"	s	object:authors.0
+name	vendor/symfony/polyfill-mbstring/composer.json	/^            "name": "Symfony Community",$/;"	s	object:authors.1
+name	vendor/symfony/polyfill-mbstring/composer.json	/^            "name": "symfony\/polyfill",$/;"	s	object:extra.thanks
+name	vendor/symfony/polyfill-mbstring/composer.json	/^    "name": "symfony\/polyfill-mbstring",$/;"	s
+name	vendor/symfony/polyfill-php80/composer.json	/^            "name": "Ion Bazan",$/;"	s	object:authors.0
+name	vendor/symfony/polyfill-php80/composer.json	/^            "name": "Nicolas Grekas",$/;"	s	object:authors.1
+name	vendor/symfony/polyfill-php80/composer.json	/^            "name": "Symfony Community",$/;"	s	object:authors.2
+name	vendor/symfony/polyfill-php80/composer.json	/^            "name": "symfony\/polyfill",$/;"	s	object:extra.thanks
+name	vendor/symfony/polyfill-php80/composer.json	/^    "name": "symfony\/polyfill-php80",$/;"	s
+name	vendor/vlucas/phpdotenv/composer.json	/^            "name": "Graham Campbell",$/;"	s	object:authors.0
+name	vendor/vlucas/phpdotenv/composer.json	/^            "name": "Vance Lucas",$/;"	s	object:authors.1
+name	vendor/vlucas/phpdotenv/composer.json	/^    "name": "vlucas\/phpdotenv",$/;"	s
+name	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^    private $name;$/;"	v	class:Dotenv\\Parser\\Entry
+names	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private $names;$/;"	v	class:Dotenv\\Store\\StoreBuilder
+notEmpty	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function notEmpty()$/;"	f	class:Dotenv\\Validator
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.0
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.1
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.2
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.3
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.4
+notification-url	vendor/composer/installed.json	/^            "notification-url": "https:\/\/packagist.org\/downloads\/",$/;"	s	object:packages.5
+occurrences	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    public static function occurrences(string $pattern, string $subject)$/;"	f	class:Dotenv\\Util\\Regex
+option	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    private $option;$/;"	v	class:PhpOption\\LazyOption
+option	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    private function option(): Option$/;"	f	class:PhpOption\\LazyOption	typeref:unknown:Option
+orElse	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function orElse(Option $else)$/;"	f	class:PhpOption\\LazyOption
+orElse	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function orElse(Option $else)$/;"	f	class:PhpOption\\None
+orElse	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function orElse(self $else);$/;"	f	class:PhpOption\\Option
+orElse	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function orElse(Option $else)$/;"	f	class:PhpOption\\Some
+p	vendor/symfony/polyfill-ctype/bootstrap.php	/^use Symfony\\Polyfill\\Ctype as p;$/;"	a	typeref:unknown:Symfony\\Polyfill\\Ctype
+p	vendor/symfony/polyfill-ctype/bootstrap80.php	/^use Symfony\\Polyfill\\Ctype as p;$/;"	a	typeref:unknown:Symfony\\Polyfill\\Ctype
+p	vendor/symfony/polyfill-mbstring/bootstrap.php	/^use Symfony\\Polyfill\\Mbstring as p;$/;"	a	typeref:unknown:Symfony\\Polyfill\\Mbstring
+p	vendor/symfony/polyfill-mbstring/bootstrap80.php	/^use Symfony\\Polyfill\\Mbstring as p;$/;"	a	typeref:unknown:Symfony\\Polyfill\\Mbstring
+p	vendor/symfony/polyfill-php80/bootstrap.php	/^use Symfony\\Polyfill\\Php80 as p;$/;"	a	typeref:unknown:Symfony\\Polyfill\\Php80
+packages	vendor/composer/installed.json	/^    "packages": [$/;"	a
+parse	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public static function parse(string $content)$/;"	f	class:Dotenv\\Dotenv
+parse	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    public static function parse(string $entry)$/;"	f	class:Dotenv\\Parser\\EntryParser
+parse	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^    public function parse(string $content)$/;"	f	class:Dotenv\\Parser\\Parser
+parse	vendor/vlucas/phpdotenv/src/Parser/ParserInterface.php	/^    public function parse(string $content);$/;"	f	interface:Dotenv\\Parser\\ParserInterface
+parseName	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function parseName(string $name)$/;"	f	class:Dotenv\\Parser\\EntryParser
+parseValue	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function parseValue(string $value)$/;"	f	class:Dotenv\\Parser\\EntryParser
+parser	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    private $parser;$/;"	v	class:Dotenv\\Dotenv
+paths	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private $paths;$/;"	v	class:Dotenv\\Store\\StoreBuilder
+php	vendor/composer/installed.json	/^                "php": ">=7.2"$/;"	s	object:packages.2.require
+php	vendor/composer/installed.json	/^                "php": ">=7.2"$/;"	s	object:packages.3.require
+php	vendor/composer/installed.json	/^                "php": ">=7.2"$/;"	s	object:packages.4.require
+php	vendor/composer/installed.json	/^                "php": "^7.2.5 || ^8.0"$/;"	s	object:packages.1.require
+php	vendor/composer/installed.json	/^                "php": "^7.2.5 || ^8.0",$/;"	s	object:packages.0.require
+php	vendor/composer/installed.json	/^                "php": "^7.2.5 || ^8.0",$/;"	s	object:packages.5.require
+php	vendor/graham-campbell/result-type/composer.json	/^        "php": "^7.2.5 || ^8.0",$/;"	s	object:require
+php	vendor/phpoption/phpoption/composer.json	/^        "php": "^7.2.5 || ^8.0"$/;"	s	object:require
+php	vendor/symfony/polyfill-ctype/composer.json	/^        "php": ">=7.2"$/;"	s	object:require
+php	vendor/symfony/polyfill-mbstring/composer.json	/^        "php": ">=7.2"$/;"	s	object:require
+php	vendor/symfony/polyfill-php80/composer.json	/^        "php": ">=7.2"$/;"	s	object:require
+php	vendor/vlucas/phpdotenv/composer.json	/^        "php": "^7.2.5 || ^8.0",$/;"	s	object:require
+phpoption/phpoption	vendor/composer/installed.json	/^                "phpoption\/phpoption": "^1.9.3"$/;"	s	object:packages.0.require
+phpoption/phpoption	vendor/composer/installed.json	/^                "phpoption\/phpoption": "^1.9.3",$/;"	s	object:packages.5.require
+phpoption/phpoption	vendor/graham-campbell/result-type/composer.json	/^        "phpoption\/phpoption": "^1.9.3"$/;"	s	object:require
+phpoption/phpoption	vendor/vlucas/phpdotenv/composer.json	/^        "phpoption\/phpoption": "^1.9.3",$/;"	s	object:require
+phpunit/phpunit	vendor/composer/installed.json	/^                "phpunit\/phpunit": "^8.5.34 || ^9.6.13 || ^10.4.2"$/;"	s	object:packages.5.require-dev
+phpunit/phpunit	vendor/composer/installed.json	/^                "phpunit\/phpunit": "^8.5.39 || ^9.6.20 || ^10.5.28"$/;"	s	object:packages.0.require-dev
+phpunit/phpunit	vendor/composer/installed.json	/^                "phpunit\/phpunit": "^8.5.39 || ^9.6.20 || ^10.5.28"$/;"	s	object:packages.1.require-dev
+phpunit/phpunit	vendor/graham-campbell/result-type/composer.json	/^        "phpunit\/phpunit": "^8.5.39 || ^9.6.20 || ^10.5.28"$/;"	s	object:require-dev
+phpunit/phpunit	vendor/phpoption/phpoption/composer.json	/^        "phpunit\/phpunit": "^8.5.39 || ^9.6.20 || ^10.5.28"$/;"	s	object:require-dev
+phpunit/phpunit	vendor/vlucas/phpdotenv/composer.json	/^        "phpunit\/phpunit":"^8.5.34 || ^9.6.13 || ^10.4.2"$/;"	s	object:require-dev
+pos	vendor/symfony/polyfill-php80/PhpToken.php	/^    public $pos;$/;"	v	class:Symfony\\Polyfill\\Php80\\PhpToken
+pos	vendor/vlucas/phpdotenv/src/Util/Str.php	/^    public static function pos(string $haystack, string $needle)$/;"	f	class:Dotenv\\Util\\Str
+preferred-install	vendor/graham-campbell/result-type/composer.json	/^        "preferred-install": "dist"$/;"	s	object:config
+preferred-install	vendor/phpoption/phpoption/composer.json	/^        "preferred-install": "dist"$/;"	s	object:config
+preferred-install	vendor/vlucas/phpdotenv/composer.json	/^        "preferred-install": "dist"$/;"	s	object:config
+prefixDirsPsr4	vendor/composer/ClassLoader.php	/^    private $prefixDirsPsr4 = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+prefixDirsPsr4	vendor/composer/autoload_static.php	/^    public static $prefixDirsPsr4 = array ($/;"	v	class:Composer\\Autoload\\ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae
+prefixLengthsPsr4	vendor/composer/ClassLoader.php	/^    private $prefixLengthsPsr4 = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+prefixLengthsPsr4	vendor/composer/autoload_static.php	/^    public static $prefixLengthsPsr4 = array ($/;"	v	class:Composer\\Autoload\\ComposerStaticInitd617fd5d9ef9c93f61510a11d2e9f3ae
+prefixesPsr0	vendor/composer/ClassLoader.php	/^    private $prefixesPsr0 = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+pregAndWrap	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    private static function pregAndWrap(callable $operation, string $subject)$/;"	f	class:Dotenv\\Util\\Regex
+preg_last_error_msg	vendor/symfony/polyfill-php80/Php80.php	/^    public static function preg_last_error_msg(): string$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:string
+preg_last_error_msg	vendor/symfony/polyfill-php80/bootstrap.php	/^    function preg_last_error_msg(): string { return p\\Php80::preg_last_error_msg(); }$/;"	f	typeref:unknown:string
+process	vendor/vlucas/phpdotenv/src/Parser/Lines.php	/^    public static function process(array $lines)$/;"	f	class:Dotenv\\Parser\\Lines
+process	vendor/vlucas/phpdotenv/src/Parser/Parser.php	/^    private static function process(array $entries)$/;"	f	class:Dotenv\\Parser\\Parser
+processFile	process.php	/^function processFile(string $filePath): void$/;"	f	typeref:unknown:void
+processToken	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function processToken(int $state, string $token)$/;"	f	class:Dotenv\\Parser\\EntryParser
+provide	vendor/composer/installed.json	/^            "provide": {$/;"	o	object:packages.2
+provide	vendor/composer/installed.json	/^            "provide": {$/;"	o	object:packages.3
+provide	vendor/symfony/polyfill-ctype/composer.json	/^    "provide": {$/;"	o
+provide	vendor/symfony/polyfill-mbstring/composer.json	/^    "provide": {$/;"	o
+psr-4	composer.json	/^        "psr-4": {$/;"	o	object:autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.0.autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.1.autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.2.autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.3.autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.4.autoload
+psr-4	vendor/composer/installed.json	/^                "psr-4": {$/;"	o	object:packages.5.autoload
+psr-4	vendor/graham-campbell/result-type/composer.json	/^        "psr-4": {$/;"	o	object:autoload
+psr-4	vendor/graham-campbell/result-type/composer.json	/^        "psr-4": {$/;"	o	object:autoload-dev
+psr-4	vendor/phpoption/phpoption/composer.json	/^        "psr-4": {$/;"	o	object:autoload
+psr-4	vendor/phpoption/phpoption/composer.json	/^        "psr-4": {$/;"	o	object:autoload-dev
+psr-4	vendor/symfony/polyfill-ctype/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Ctype\\\\": "" },$/;"	o	object:autoload
+psr-4	vendor/symfony/polyfill-mbstring/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Mbstring\\\\": "" },$/;"	o	object:autoload
+psr-4	vendor/symfony/polyfill-php80/composer.json	/^        "psr-4": { "Symfony\\\\Polyfill\\\\Php80\\\\": "" },$/;"	o	object:autoload
+psr-4	vendor/vlucas/phpdotenv/composer.json	/^        "psr-4": {$/;"	o	object:autoload
+psr-4	vendor/vlucas/phpdotenv/composer.json	/^        "psr-4": {$/;"	o	object:autoload-dev
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\MultiReader
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReaderInterface.php	/^    public function read(string $name);$/;"	f	interface:Dotenv\\Repository\\Adapter\\ReaderInterface
+read	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^    public function read(string $name)$/;"	f	class:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+read	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^    public static function read(array $filePaths, bool $shortCircuit = true, ?string $fileEncodi/;"	f	class:Dotenv\\Store\\File\\Reader
+read	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^    public function read()$/;"	f	class:Dotenv\\Store\\FileStore
+read	vendor/vlucas/phpdotenv/src/Store/StoreInterface.php	/^    public function read();$/;"	f	interface:Dotenv\\Store\\StoreInterface
+read	vendor/vlucas/phpdotenv/src/Store/StringStore.php	/^    public function read()$/;"	f	class:Dotenv\\Store\\StringStore
+readFromFile	vendor/vlucas/phpdotenv/src/Store/File/Reader.php	/^    private static function readFromFile(string $path, ?string $encoding = null)$/;"	f	class:Dotenv\\Store\\File\\Reader
+reader	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    private $reader;$/;"	v	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+reader	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    private $reader;$/;"	v	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+reader	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    private $reader;$/;"	v	class:Dotenv\\Repository\\AdapterRepository
+readers	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php	/^    private $readers;$/;"	v	class:Dotenv\\Repository\\Adapter\\MultiReader
+readers	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private $readers;$/;"	v	class:Dotenv\\Repository\\RepositoryBuilder	typeref:unknown:ServerConstAdapterclassEnvConstAdapterclass
+reference	vendor/composer/installed.json	/^                "reference": "3ba905c11371512af9d9bdd27d99b782216b6945"$/;"	s	object:packages.0.source
+reference	vendor/composer/installed.json	/^                "reference": "3ba905c11371512af9d9bdd27d99b782216b6945",$/;"	s	object:packages.0.dist
+reference	vendor/composer/installed.json	/^                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8"$/;"	s	object:packages.4.source
+reference	vendor/composer/installed.json	/^                "reference": "60328e362d4c2c802a54fcbf04f9d3fb892b4cf8",$/;"	s	object:packages.4.dist
+reference	vendor/composer/installed.json	/^                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341"$/;"	s	object:packages.3.source
+reference	vendor/composer/installed.json	/^                "reference": "85181ba99b2345b0ef10ce42ecac37612d9fd341",$/;"	s	object:packages.3.dist
+reference	vendor/composer/installed.json	/^                "reference": "a3cc8b044a6ea513310cbd48ef7333b384945638"$/;"	s	object:packages.2.source
+reference	vendor/composer/installed.json	/^                "reference": "a3cc8b044a6ea513310cbd48ef7333b384945638",$/;"	s	object:packages.2.dist
+reference	vendor/composer/installed.json	/^                "reference": "a59a13791077fe3d44f90e7133eb68e7d22eaff2"$/;"	s	object:packages.5.source
+reference	vendor/composer/installed.json	/^                "reference": "a59a13791077fe3d44f90e7133eb68e7d22eaff2",$/;"	s	object:packages.5.dist
+reference	vendor/composer/installed.json	/^                "reference": "e3fac8b24f56113f7cb96af14958c0dd16330f54"$/;"	s	object:packages.1.source
+reference	vendor/composer/installed.json	/^                "reference": "e3fac8b24f56113f7cb96af14958c0dd16330f54",$/;"	s	object:packages.1.dist
+register	vendor/composer/ClassLoader.php	/^    public function register($prepend = false)$/;"	f	class:Composer\\Autoload\\ClassLoader
+registeredLoaders	vendor/composer/ClassLoader.php	/^    private static $registeredLoaders = array();$/;"	v	class:Composer\\Autoload\\ClassLoader
+reject	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function reject($value)$/;"	f	class:PhpOption\\LazyOption
+reject	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function reject($value)$/;"	f	class:PhpOption\\None
+reject	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function reject($value);$/;"	f	class:PhpOption\\Option
+reject	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function reject($value)$/;"	f	class:PhpOption\\Some
+reload	vendor/composer/InstalledVersions.php	/^    public static function reload($data)$/;"	f	class:Composer\\InstalledVersions
+replaceCallback	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    public static function replaceCallback(string $pattern, callable $callback, string $subject,/;"	f	class:Dotenv\\Util\\Regex
+repository	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    private $repository;$/;"	v	class:Dotenv\\Dotenv
+repository	vendor/vlucas/phpdotenv/src/Validator.php	/^    private $repository;$/;"	v	class:Dotenv\\Validator
+require	composer.json	/^    "require": {$/;"	o
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.0
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.1
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.2
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.3
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.4
+require	vendor/composer/installed.json	/^            "require": {$/;"	o	object:packages.5
+require	vendor/graham-campbell/result-type/composer.json	/^    "require": {$/;"	o
+require	vendor/phpoption/phpoption/composer.json	/^    "require": {$/;"	o
+require	vendor/symfony/polyfill-ctype/composer.json	/^    "require": {$/;"	o
+require	vendor/symfony/polyfill-mbstring/composer.json	/^    "require": {$/;"	o
+require	vendor/symfony/polyfill-php80/composer.json	/^    "require": {$/;"	o
+require	vendor/vlucas/phpdotenv/composer.json	/^    "require": {$/;"	o
+require-dev	vendor/composer/installed.json	/^            "require-dev": {$/;"	o	object:packages.0
+require-dev	vendor/composer/installed.json	/^            "require-dev": {$/;"	o	object:packages.1
+require-dev	vendor/composer/installed.json	/^            "require-dev": {$/;"	o	object:packages.5
+require-dev	vendor/graham-campbell/result-type/composer.json	/^    "require-dev": {$/;"	o
+require-dev	vendor/phpoption/phpoption/composer.json	/^    "require-dev": {$/;"	o
+require-dev	vendor/vlucas/phpdotenv/composer.json	/^    "require-dev": {$/;"	o
+required	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public function required($variables)$/;"	f	class:Dotenv\\Dotenv
+required	vendor/vlucas/phpdotenv/src/Validator.php	/^    public function required()$/;"	f	class:Dotenv\\Validator
+resolve	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^    public static function resolve(RepositoryInterface $repository, Value $value)$/;"	f	class:Dotenv\\Loader\\Resolver
+resolveVariable	vendor/vlucas/phpdotenv/src/Loader/Resolver.php	/^    private static function resolveVariable(RepositoryInterface $repository, string $str)$/;"	f	class:Dotenv\\Loader\\Resolver
+safeLoad	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    public function safeLoad()$/;"	f	class:Dotenv\\Dotenv
+satisfies	vendor/composer/InstalledVersions.php	/^    public static function satisfies(VersionParser $parser, $packageName, $constraint)$/;"	f	class:Composer\\InstalledVersions
+seen	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    private $seen;$/;"	v	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+select	vendor/phpoption/phpoption/src/PhpOption/LazyOption.php	/^    public function select($value)$/;"	f	class:PhpOption\\LazyOption
+select	vendor/phpoption/phpoption/src/PhpOption/None.php	/^    public function select($value)$/;"	f	class:PhpOption\\None
+select	vendor/phpoption/phpoption/src/PhpOption/Option.php	/^    abstract public function select($value);$/;"	f	class:PhpOption\\Option
+select	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    public function select($value)$/;"	f	class:PhpOption\\Some
+set	vendor/composer/ClassLoader.php	/^    public function set($prefix, $paths)$/;"	f	class:Composer\\Autoload\\ClassLoader
+set	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    public function set(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\AdapterRepository
+set	vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php	/^    public function set(string $name, string $value);$/;"	f	interface:Dotenv\\Repository\\RepositoryInterface
+setApcuPrefix	vendor/composer/ClassLoader.php	/^    public function setApcuPrefix($apcuPrefix)$/;"	f	class:Composer\\Autoload\\ClassLoader
+setClassMapAuthoritative	vendor/composer/ClassLoader.php	/^    public function setClassMapAuthoritative($classMapAuthoritative)$/;"	f	class:Composer\\Autoload\\ClassLoader
+setPsr4	vendor/composer/ClassLoader.php	/^    public function setPsr4($prefix, $paths)$/;"	f	class:Composer\\Autoload\\ClassLoader
+setUseIncludePath	vendor/composer/ClassLoader.php	/^    public function setUseIncludePath($useIncludePath)$/;"	f	class:Composer\\Autoload\\ClassLoader
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.0.dist
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.1.dist
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.2.dist
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.3.dist
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.4.dist
+shasum	vendor/composer/installed.json	/^                "shasum": ""$/;"	s	object:packages.5.dist
+shortCircuit	vendor/vlucas/phpdotenv/src/Store/FileStore.php	/^    private $shortCircuit;$/;"	v	class:Dotenv\\Store\\FileStore
+shortCircuit	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    private $shortCircuit;$/;"	v	class:Dotenv\\Store\\StoreBuilder
+shortCircuit	vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php	/^    public function shortCircuit()$/;"	f	class:Dotenv\\Store\\StoreBuilder
+silhouettes	src/App/Silhouettes.php	/^    private array $silhouettes;$/;"	v	class:App\\Silhouettes	typeref:unknown:array
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/GrahamCampbell\/Result-Type\/tree\/v1.1.3"$/;"	s	object:packages.0.support
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/schmittjoh\/php-option\/tree\/1.9.3"$/;"	s	object:packages.1.support
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/symfony\/polyfill-ctype\/tree\/v1.31.0"$/;"	s	object:packages.2.support
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/symfony\/polyfill-mbstring\/tree\/v1.31.0"$/;"	s	object:packages.3.support
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/symfony\/polyfill-php80\/tree\/v1.31.0"$/;"	s	object:packages.4.support
+source	vendor/composer/installed.json	/^                "source": "https:\/\/github.com\/vlucas\/phpdotenv\/tree\/v5.6.1"$/;"	s	object:packages.5.support
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.0
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.1
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.2
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.3
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.4
+source	vendor/composer/installed.json	/^            "source": {$/;"	o	object:packages.5
+split	vendor/vlucas/phpdotenv/src/Util/Regex.php	/^    public static function split(string $pattern, string $subject)$/;"	f	class:Dotenv\\Util\\Regex
+splitStringIntoParts	vendor/vlucas/phpdotenv/src/Parser/EntryParser.php	/^    private static function splitStringIntoParts(string $line)$/;"	f	class:Dotenv\\Parser\\EntryParser
+store	vendor/vlucas/phpdotenv/src/Dotenv.php	/^    private $store;$/;"	v	class:Dotenv\\Dotenv
+str_contains	vendor/symfony/polyfill-php80/Php80.php	/^    public static function str_contains(string $haystack, string $needle): bool$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:bool
+str_contains	vendor/symfony/polyfill-php80/bootstrap.php	/^    function str_contains(?string $haystack, ?string $needle): bool { return p\\Php80::str_conta/;"	f	typeref:unknown:bool
+str_ends_with	vendor/symfony/polyfill-php80/Php80.php	/^    public static function str_ends_with(string $haystack, string $needle): bool$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:bool
+str_ends_with	vendor/symfony/polyfill-php80/bootstrap.php	/^    function str_ends_with(?string $haystack, ?string $needle): bool { return p\\Php80::str_ends/;"	f	typeref:unknown:bool
+str_starts_with	vendor/symfony/polyfill-php80/Php80.php	/^    public static function str_starts_with(string $haystack, string $needle): bool$/;"	f	class:Symfony\\Polyfill\\Php80\\Php80	typeref:unknown:bool
+str_starts_with	vendor/symfony/polyfill-php80/bootstrap.php	/^    function str_starts_with(?string $haystack, ?string $needle): bool { return p\\Php80::str_st/;"	f	typeref:unknown:bool
+substr	vendor/vlucas/phpdotenv/src/Util/Str.php	/^    public static function substr(string $input, int $start, ?int $length = null)$/;"	f	class:Dotenv\\Util\\Str
+success	vendor/graham-campbell/result-type/src/Error.php	/^    public function success()$/;"	f	class:GrahamCampbell\\ResultType\\Error
+success	vendor/graham-campbell/result-type/src/Result.php	/^    abstract public function success();$/;"	f	class:GrahamCampbell\\ResultType\\Result
+success	vendor/graham-campbell/result-type/src/Success.php	/^    public function success()$/;"	f	class:GrahamCampbell\\ResultType\\Success
+suggest	vendor/composer/installed.json	/^            "suggest": {$/;"	o	object:packages.2
+suggest	vendor/composer/installed.json	/^            "suggest": {$/;"	o	object:packages.3
+suggest	vendor/composer/installed.json	/^            "suggest": {$/;"	o	object:packages.5
+suggest	vendor/symfony/polyfill-ctype/composer.json	/^    "suggest": {$/;"	o
+suggest	vendor/symfony/polyfill-mbstring/composer.json	/^    "suggest": {$/;"	o
+suggest	vendor/vlucas/phpdotenv/composer.json	/^    "suggest": {$/;"	o
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.0
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.1
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.2
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.3
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.4
+support	vendor/composer/installed.json	/^            "support": {$/;"	o	object:packages.5
+symfony/polyfill-ctype	vendor/composer/installed.json	/^                "symfony\/polyfill-ctype": "^1.24",$/;"	s	object:packages.5.require
+symfony/polyfill-ctype	vendor/vlucas/phpdotenv/composer.json	/^        "symfony\/polyfill-ctype": "^1.24",$/;"	s	object:require
+symfony/polyfill-mbstring	vendor/composer/installed.json	/^                "symfony\/polyfill-mbstring": "^1.24",$/;"	s	object:packages.5.require
+symfony/polyfill-mbstring	vendor/vlucas/phpdotenv/composer.json	/^        "symfony\/polyfill-mbstring": "^1.24",$/;"	s	object:require
+symfony/polyfill-php80	vendor/composer/installed.json	/^                "symfony\/polyfill-php80": "^1.24"$/;"	s	object:packages.5.require
+symfony/polyfill-php80	vendor/vlucas/phpdotenv/composer.json	/^        "symfony\/polyfill-php80": "^1.24"$/;"	s	object:require
+text	vendor/symfony/polyfill-php80/PhpToken.php	/^    public $text;$/;"	v	class:Symfony\\Polyfill\\Php80\\PhpToken
+thanks	vendor/composer/installed.json	/^                "thanks": {$/;"	o	object:packages.2.extra
+thanks	vendor/composer/installed.json	/^                "thanks": {$/;"	o	object:packages.3.extra
+thanks	vendor/composer/installed.json	/^                "thanks": {$/;"	o	object:packages.4.extra
+thanks	vendor/symfony/polyfill-ctype/composer.json	/^        "thanks": {$/;"	o	object:extra
+thanks	vendor/symfony/polyfill-mbstring/composer.json	/^        "thanks": {$/;"	o	object:extra
+thanks	vendor/symfony/polyfill-php80/composer.json	/^        "thanks": {$/;"	o	object:extra
+time	vendor/composer/installed.json	/^            "time": "2024-07-20T21:41:07+00:00",$/;"	s	object:packages.1
+time	vendor/composer/installed.json	/^            "time": "2024-07-20T21:45:45+00:00",$/;"	s	object:packages.0
+time	vendor/composer/installed.json	/^            "time": "2024-07-20T21:52:34+00:00",$/;"	s	object:packages.5
+time	vendor/composer/installed.json	/^            "time": "2024-09-09T11:45:10+00:00",$/;"	s	object:packages.2
+time	vendor/composer/installed.json	/^            "time": "2024-09-09T11:45:10+00:00",$/;"	s	object:packages.3
+time	vendor/composer/installed.json	/^            "time": "2024-09-09T11:45:10+00:00",$/;"	s	object:packages.4
+title_case	vendor/symfony/polyfill-mbstring/Mbstring.php	/^    private static function title_case(array $s)$/;"	f	class:Symfony\\Polyfill\\Mbstring\\Mbstring
+tokenize	vendor/symfony/polyfill-php80/PhpToken.php	/^    public static function tokenize(string $code, int $flags = 0): array$/;"	f	class:Symfony\\Polyfill\\Php80\\PhpToken	typeref:unknown:array
+type	vendor/composer/installed.json	/^                    "type": "custom"$/;"	s	object:packages.2.funding.0
+type	vendor/composer/installed.json	/^                    "type": "custom"$/;"	s	object:packages.3.funding.0
+type	vendor/composer/installed.json	/^                    "type": "custom"$/;"	s	object:packages.4.funding.0
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.0.funding.0
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.1.funding.0
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.2.funding.1
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.3.funding.1
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.4.funding.1
+type	vendor/composer/installed.json	/^                    "type": "github"$/;"	s	object:packages.5.funding.0
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.0.funding.1
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.1.funding.1
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.2.funding.2
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.3.funding.2
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.4.funding.2
+type	vendor/composer/installed.json	/^                    "type": "tidelift"$/;"	s	object:packages.5.funding.1
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.0.source
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.1.source
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.2.source
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.3.source
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.4.source
+type	vendor/composer/installed.json	/^                "type": "git",$/;"	s	object:packages.5.source
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.0.dist
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.1.dist
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.2.dist
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.3.dist
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.4.dist
+type	vendor/composer/installed.json	/^                "type": "zip",$/;"	s	object:packages.5.dist
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.0
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.1
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.2
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.3
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.4
+type	vendor/composer/installed.json	/^            "type": "library",$/;"	s	object:packages.5
+type	vendor/symfony/polyfill-ctype/composer.json	/^    "type": "library",$/;"	s
+type	vendor/symfony/polyfill-mbstring/composer.json	/^    "type": "library",$/;"	s
+type	vendor/symfony/polyfill-php80/composer.json	/^    "type": "library",$/;"	s
+unregister	vendor/composer/ClassLoader.php	/^    public function unregister()$/;"	f	class:Composer\\Autoload\\ClassLoader
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/GrahamCampbell",$/;"	s	object:packages.0.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/GrahamCampbell",$/;"	s	object:packages.1.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/GrahamCampbell",$/;"	s	object:packages.5.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/fabpot",$/;"	s	object:packages.2.funding.1
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/fabpot",$/;"	s	object:packages.3.funding.1
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/fabpot",$/;"	s	object:packages.4.funding.1
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/symfony\/polyfill",$/;"	s	object:packages.2.extra.thanks
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/symfony\/polyfill",$/;"	s	object:packages.3.extra.thanks
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/github.com\/symfony\/polyfill",$/;"	s	object:packages.4.extra.thanks
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/symfony.com\/sponsor",$/;"	s	object:packages.2.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/symfony.com\/sponsor",$/;"	s	object:packages.3.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/symfony.com\/sponsor",$/;"	s	object:packages.4.funding.0
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/graham-campbell\//;"	s	object:packages.0.funding.1
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/phpoption\/phpop/;"	s	object:packages.1.funding.1
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/symfony\/symfony/;"	s	object:packages.2.funding.2
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/symfony\/symfony/;"	s	object:packages.3.funding.2
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/symfony\/symfony/;"	s	object:packages.4.funding.2
+url	vendor/composer/installed.json	/^                    "url": "https:\/\/tidelift.com\/funding\/github\/packagist\/vlucas\/phpdoten/;"	s	object:packages.5.funding.1
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/GrahamCampbell\/Result-Type\/zipball\/3/;"	s	object:packages.0.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/schmittjoh\/php-option\/zipball\/e3fac8/;"	s	object:packages.1.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/symfony\/polyfill-ctype\/zipball\/a3cc8/;"	s	object:packages.2.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/symfony\/polyfill-mbstring\/zipball\/85/;"	s	object:packages.3.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/symfony\/polyfill-php80\/zipball\/60328/;"	s	object:packages.4.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/api.github.com\/repos\/vlucas\/phpdotenv\/zipball\/a59a1379107/;"	s	object:packages.5.dist
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/GrahamCampbell\/Result-Type.git",$/;"	s	object:packages.0.source
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/schmittjoh\/php-option.git",$/;"	s	object:packages.1.source
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/symfony\/polyfill-ctype.git",$/;"	s	object:packages.2.source
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/symfony\/polyfill-mbstring.git",$/;"	s	object:packages.3.source
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/symfony\/polyfill-php80.git",$/;"	s	object:packages.4.source
+url	vendor/composer/installed.json	/^                "url": "https:\/\/github.com\/vlucas\/phpdotenv.git",$/;"	s	object:packages.5.source
+url	vendor/symfony/polyfill-ctype/composer.json	/^            "url": "https:\/\/github.com\/symfony\/polyfill"$/;"	s	object:extra.thanks
+url	vendor/symfony/polyfill-mbstring/composer.json	/^            "url": "https:\/\/github.com\/symfony\/polyfill"$/;"	s	object:extra.thanks
+url	vendor/symfony/polyfill-php80/composer.json	/^            "url": "https:\/\/github.com\/symfony\/polyfill"$/;"	s	object:extra.thanks
+useIncludePath	vendor/composer/ClassLoader.php	/^    private $useIncludePath = false;$/;"	v	class:Composer\\Autoload\\ClassLoader
+utf8	vendor/vlucas/phpdotenv/src/Util/Str.php	/^    public static function utf8(string $input, ?string $encoding = null)$/;"	f	class:Dotenv\\Util\\Str
+validateFileStructure	src/App/FileValidator.php	/^    public static function validateFileStructure(string $filePath): bool$/;"	f	class:App\\FileValidator	typeref:unknown:bool
+validateMimeType	src/App/FileValidator.php	/^    public static function validateMimeType(string $filePath): bool$/;"	f	class:App\\FileValidator	typeref:unknown:bool
+value	vendor/graham-campbell/result-type/src/Error.php	/^    private $value;$/;"	v	class:GrahamCampbell\\ResultType\\Error
+value	vendor/graham-campbell/result-type/src/Success.php	/^    private $value;$/;"	v	class:GrahamCampbell\\ResultType\\Success
+value	vendor/phpoption/phpoption/src/PhpOption/Some.php	/^    private $value;$/;"	v	class:PhpOption\\Some
+value	vendor/vlucas/phpdotenv/src/Parser/Entry.php	/^    private $value;$/;"	v	class:Dotenv\\Parser\\Entry
+variables	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    private $variables;$/;"	v	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+variables	vendor/vlucas/phpdotenv/src/Validator.php	/^    private $variables;$/;"	v	class:Dotenv\\Validator
+vars	vendor/vlucas/phpdotenv/src/Parser/Value.php	/^    private $vars;$/;"	v	class:Dotenv\\Parser\\Value
+vendorDir	vendor/composer/ClassLoader.php	/^    private $vendorDir;$/;"	v	class:Composer\\Autoload\\ClassLoader
+vendorDir	vendor/composer/autoload_classmap.php	/^$vendorDir = dirname(__DIR__);$/;"	v
+vendorDir	vendor/composer/autoload_files.php	/^$vendorDir = dirname(__DIR__);$/;"	v
+vendorDir	vendor/composer/autoload_namespaces.php	/^$vendorDir = dirname(__DIR__);$/;"	v
+vendorDir	vendor/composer/autoload_psr4.php	/^$vendorDir = dirname(__DIR__);$/;"	v
+version	vendor/composer/installed.json	/^            "version": "1.9.3",$/;"	s	object:packages.1
+version	vendor/composer/installed.json	/^            "version": "v1.1.3",$/;"	s	object:packages.0
+version	vendor/composer/installed.json	/^            "version": "v1.31.0",$/;"	s	object:packages.2
+version	vendor/composer/installed.json	/^            "version": "v1.31.0",$/;"	s	object:packages.3
+version	vendor/composer/installed.json	/^            "version": "v1.31.0",$/;"	s	object:packages.4
+version	vendor/composer/installed.json	/^            "version": "v5.6.1",$/;"	s	object:packages.5
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "1.1.3.0",$/;"	s	object:packages.0
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "1.31.0.0",$/;"	s	object:packages.2
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "1.31.0.0",$/;"	s	object:packages.3
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "1.31.0.0",$/;"	s	object:packages.4
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "1.9.3.0",$/;"	s	object:packages.1
+version_normalized	vendor/composer/installed.json	/^            "version_normalized": "5.6.1.0",$/;"	s	object:packages.5
+vlucas/phpdotenv	composer.json	/^        "vlucas\/phpdotenv": "^5.6"$/;"	s	object:require
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\ApacheAdapter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\ArrayAdapter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\EnvConstAdapter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\MultiWriter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\PutenvAdapter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php	/^    public function write(string $name, string $value)$/;"	f	class:Dotenv\\Repository\\Adapter\\ServerConstAdapter
+write	vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php	/^    public function write(string $name, string $value);$/;"	f	interface:Dotenv\\Repository\\Adapter\\WriterInterface
+writer	vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php	/^    private $writer;$/;"	v	class:Dotenv\\Repository\\Adapter\\GuardedWriter
+writer	vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php	/^    private $writer;$/;"	v	class:Dotenv\\Repository\\Adapter\\ImmutableWriter
+writer	vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php	/^    private $writer;$/;"	v	class:Dotenv\\Repository\\Adapter\\ReplacingWriter
+writer	vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php	/^    private $writer;$/;"	v	class:Dotenv\\Repository\\AdapterRepository
+writers	vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php	/^    private $writers;$/;"	v	class:Dotenv\\Repository\\Adapter\\MultiWriter
+writers	vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php	/^    private $writers;$/;"	v	class:Dotenv\\Repository\\RepositoryBuilder
