@@ -1,0 +1,27 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      - id: detect-private-key
+        exclude: .gitlab/config/.gitleaks.toml
+
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.18.2
+    hooks:
+      - id: gitleaks
+        args: ["--config", ".gitleaks.toml", "--verbose"]
+
+  - repo: https://github.com/commitizen-tools/commitizen
+    rev: v3.24.0
+    hooks:
+      - id: commitizen
+        stages: [commit-msg]
+
+  - repo: https://github.com/lirantal/anti-trojan-source
+    rev: v1.4.1
+    hooks:
+      - id: anti-trojan-source

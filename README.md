@@ -82,18 +82,23 @@ silhuetas/
 │   └── example.txt
 ├── src/
 │   └── App/
-│       └── FileValidator.php
+│       ├── FileValidator.php
+│       ├── Process.php
 │       └── Silhouettes.php
 ├── tests/
 │   ├── FileValidatorTest.php
+│   ├── ProcessTest.php
+│   ├── SilhouettesTest.php
 │   ├── files/
 │   │    ├── case_count.teste
 │   │    ├── file.teste
 │   │    ├── item_count.teste
 │   │    ├── range_0.teste
 │   │    └── range_100.teste
-│   └── reports/
+│   ├── reports/
+│   │    └── report-2025-03-31.html
 ├── .env
+├── .pre-commit-config.yaml
 ├── composer.json
 ├── composer.lock
 ├── process.php
