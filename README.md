@@ -64,13 +64,34 @@ php process.php
 
 ### 5. Rodando os testes
 
-O projeto inclui testes básicos para garantir que a validação do arquivo esteja funcionando corretamente. Para rodar os testes, execute o seguinte comando:
+É necessário ter **uma extensão de cobertura de código** instalada no PHP. Você pode usar:
+
+- [Xdebug](https://xdebug.org/)
+- ou [PCOV](https://github.com/krakjoe/pcov)
+
+> ⚠️ Apenas uma das duas deve estar ativa no momento da execução.
+
+#### ▶️ Rodando os testes
+
+Para rodar os testes unitários:
 
 ```bash
 composer test
 ```
 
-Isso rodará todos os testes do projeto e gerará um relatório em HTML na pasta `tests/reports/`.
+Para rodar os testes com relatório de cobertura:
+
+```bash
+composer coverage
+```
+
+Isso executará todos os testes do projeto e gerará um relatório em **HTML** na pasta:
+
+```
+tests/reports/coverage/
+```
+
+Você pode abrir o arquivo `index.html` com seu navegador para visualizar o relatório.
 
 ### 6. Estrutura de pastas
 
@@ -86,21 +107,27 @@ silhuetas/
 │       ├── Process.php
 │       └── Silhouettes.php
 ├── tests/
+│   ├── files/
+│   │   ├── array_no_int.teste
+│   │   ├── array_separator.teste
+│   │   ├── case_count.teste
+│   │   ├── file.teste
+│   │   ├── file-pdf.teste
+│   │   ├── item_count.teste
+│   │   ├── no_int_case.teste
+│   │   ├── range_0.teste
+│   │   └── range_100.teste
+│   ├── reports/
+│   │   └── report.html
 │   ├── FileValidatorTest.php
 │   ├── ProcessTest.php
-│   ├── SilhouettesTest.php
-│   ├── files/
-│   │    ├── case_count.teste
-│   │    ├── file.teste
-│   │    ├── item_count.teste
-│   │    ├── range_0.teste
-│   │    └── range_100.teste
-│   ├── reports/
-│   │    └── report-2025-03-31.html
+│   └── SilhouettesTest.php
 ├── .env
 ├── .pre-commit-config.yaml
 ├── composer.json
 ├── composer.lock
+├── env_example
+├── phpunit.xml.dist
 ├── process.php
 └── README.md
 ```
