@@ -1,0 +1,3 @@
+# Parametros de carga dos arquivos
+FILE_DIRECTORY='files'
+FILE_EXTENSION='txt'
