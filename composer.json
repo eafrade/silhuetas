@@ -12,6 +12,7 @@
         "squizlabs/php_codesniffer": "*"
     },
     "scripts": {
-        "test": "php ./vendor/bin/phpunit --testdox --testdox-html=tests/reports/report-$(date +\\%F).html --bootstrap vendor/autoload.php tests"
+        "test": "php ./vendor/bin/phpunit --testdox --testdox-html=tests/reports/report-$(date +\\%F).html",
+        "coverage": "php -dxdebug.mode=coverage ./vendor/bin/phpunit --coverage-html=tests/reports/coverage --coverage-text"
     }
 }
