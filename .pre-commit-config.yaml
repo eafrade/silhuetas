@@ -25,3 +25,23 @@ repos:
     rev: v1.4.1
     hooks:
       - id: anti-trojan-source
+
+  - repo: local
+    hooks:
+      - id: php-lint
+        name: Lint PHP files (phpcs)
+        entry: composer run lint
+        language: system
+        types: [php]
+
+      - id: php-cs-check
+        name: Check fix PHP code style (php-cs-fixer)
+        entry: composer run check
+        language: system
+        types: [php]
+
+      - id: phpstan
+        name: Static Analysis (PHPStan)
+        entry: composer run stan
+        language: system
+        types: [php]
