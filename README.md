@@ -4,6 +4,14 @@
 O projeto **Silhuetas** é uma aplicação em PHP que realiza o cálculo de preenchimento de colunas com base em arquivos de entrada.
 
 ---
+### Clonando o repositório
+
+Primeiro, clone o repositório para o seu ambiente local:
+
+```bash
+git clone https://github.com/eafrade/silhuetas.git
+cd silhuetas
+```
 
 ## 🐳 Executando com Docker
 
