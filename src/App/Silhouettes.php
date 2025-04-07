@@ -15,24 +15,24 @@ class Silhouettes
 
     public function calculateFilling(): int
     {
-        $maior = max($this->silhouettes);
-        $preenchimento = 0;
-        $referencia = $this->silhouettes[0];
+        $highest = max($this->silhouettes);
+        $filling = 0;
+        $reference = $this->silhouettes[0];
 
-        foreach ($this->silhouettes as $index => $silhueta) {
-            if ($silhueta > $referencia) {
-                $referencia = $silhueta;
+        foreach ($this->silhouettes as $index => $silhouette) {
+            if ($silhouette > $reference) {
+                $reference = $silhouette;
             } else {
-                if ($maior == $referencia) {
-                    $maior = max(array_slice($this->silhouettes, $index));
-                    $referencia = $maior;
+                if ($highest == $reference) {
+                    $highest = max(array_slice($this->silhouettes, $index));
+                    $reference = $highest;
                 }
             }
 
-            if ($silhueta < $referencia) {
-                $preenchimento += $referencia - $silhueta;
+            if ($silhouette < $reference) {
+                $filling += $reference - $silhouette;
             }
         }
-        return $preenchimento;
+        return $filling;
     }
 }

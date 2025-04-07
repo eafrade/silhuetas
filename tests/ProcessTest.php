@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use PHPUnit\Framework\TestCase;
 use App\Process;
+use PHPUnit\Framework\TestCase;
 
 class ProcessTest extends TestCase
 {
