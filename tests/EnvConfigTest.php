@@ -49,7 +49,7 @@ final class EnvConfigTest extends TestCase
         unset($_ENV['FILE_DIRECTORY']);
         $_ENV['FILE_EXTENSION'] = '.test';
 
-        $this->expectException(RuntimeException::class);
+        $this->expectException(\RuntimeException::class);
         $this->expectExceptionMessage('FILE_DIRECTORY is not properly defined in the .env file.');
 
         EnvConfig::getFileDirectory();
@@ -66,7 +66,7 @@ final class EnvConfigTest extends TestCase
         $_ENV['FILE_DIRECTORY'] = 'test/xpto';
         unset($_ENV['FILE_EXTENSION']);
 
-        $this->expectException(RuntimeException::class);
+        $this->expectException(\RuntimeException::class);
         $this->expectExceptionMessage('FILE_EXTENSION is not properly defined in the .env file.');
 
         EnvConfig::getFileExtension();

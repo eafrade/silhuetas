@@ -45,3 +45,4 @@ repos:
         entry: composer run stan
         language: system
         types: [php]
+        pass_filenames: false
