@@ -1,4 +1,7 @@
 {
+    "name": "eafrade/silhuetas",
+    "description": "Projeto de Silhuetas - Preenchimento",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "App\\": "src/App/"

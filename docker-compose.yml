@@ -4,7 +4,7 @@ services:
   php-app:
     build:
       context: .
-      dockerfile: docker/Dockerfile
+      dockerfile: docker/php/Dockerfile
       args:
         UID: ${UID:-1000}
         GID: ${GID:-1000}
@@ -13,3 +13,15 @@ services:
       - .:/home/dev/app
     working_dir: /home/dev/app
     tty: true
+
+  sonar-scanner:
+    build:
+      context: .
+      dockerfile: docker/sonar-scanner/Dockerfile
+    container_name: sonar-scanner
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    working_dir: /app
+    entrypoint: [ "/entrypoint.sh" ]

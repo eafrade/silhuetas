@@ -2,7 +2,9 @@ SERVICE=php-app
 COMPOSE=docker-compose.yml
 DC=docker-compose -f $(COMPOSE)
 
-.PHONY: help build up down shell test coverage install check lint fix stan status
+SHELL := /bin/sh
+
+.PHONY: help build up down shell test coverage install check lint fix stan status run sonar check-running
 
 help:
 	@echo "Available commands:"
@@ -11,45 +13,51 @@ help:
 	@echo "  make down      - Stop container"
 	@echo "  make shell     - Container shell"
 	@echo "  make test      - Run PHPUnit tests"
-	@echo "  make coverage  - Coverage Report"
+	@echo "  make coverage  - Generate coverage report"
 	@echo "  make install   - Install Composer dependencies"
 	@echo "  make lint      - Check PSR12"
 	@echo "  make fix       - Fix code"
 	@echo "  make stan      - Run PHPStan"
 	@echo "  make status    - Check container status"
 	@echo "  make run       - Execute the app"
+	@echo "  make sonar     - Run SonarQube scan"
 
 build:
-	$(DC) build
+	$(DC) build $(SERVICE)
 
 up:
-	$(DC) up --build &
+	$(DC) up --build $(SERVICE) &
 
 down:
 	$(DC) down
 
-shell:
-	$(DC) exec $(SERVICE) bash
+shell: check-running
+	$(DC) exec $(SERVICE) sh
 
-test:
-	$(DC) exec $(SERVICE) ./vendor/bin/phpunit
+test: check-running
+	$(DC) exec $(SERVICE) ./vendor/bin/phpunit --configuration phpunit.xml.dist
 
-coverage:
-	$(DC) exec $(SERVICE) composer run coverage
+coverage: check-running
+	$(DC) exec $(SERVICE) ./vendor/bin/phpunit \
+		--configuration phpunit.xml.dist \
+		--coverage-clover coverage.xml \
+		--coverage-html tests/reports/coverage \
+		--coverage-text \
+		--coverage-filter=src
 
-install:
+install: check-running
 	$(DC) exec $(SERVICE) composer install --no-interaction --prefer-dist
 
-lint:
+lint: check-running
 	$(DC) exec $(SERVICE) composer run lint
 
-fix:
+fix: check-running
 	$(DC) exec $(SERVICE) composer run fix
 
-stan:
+stan: check-running
 	$(DC) exec $(SERVICE) composer run stan
 
-run:
+run: check-running
 	$(DC) exec $(SERVICE) php process.php
 
 status:
@@ -61,3 +69,27 @@ status:
 		STATUS=$$(docker inspect --format='{{.State.Status}} (health: {{.State.Health.Status}})' $$CID 2>/dev/null || echo "unavailable"); \
 		echo "✅ Service '$(SERVICE)' is running: $$STATUS"; \
 	fi
+
+check-running:
+	@CID=$$($(DC) ps -q $(SERVICE)); \
+	if [ -z "$$CID" ]; then \
+		echo "❌ Service '$(SERVICE)' is not running. Use 'make up' first."; \
+		exit 1; \
+	fi; \
+	HEALTH=$$(docker inspect --format '{{if .State.Health}}{{.State.Health.Status}}{{else}}none{{end}}' $$CID); \
+	if [ "$$HEALTH" = "unhealthy" ]; then \
+		echo "❌ Service '$(SERVICE)' is unhealthy."; \
+		exit 1; \
+	elif [ "$$HEALTH" = "starting" ]; then \
+		echo "⏳ Service '$(SERVICE)' is still starting..."; \
+		exit 1; \
+	elif [ "$$HEALTH" = "none" ]; then \
+		echo "⚠️  No healthcheck configured for service '$(SERVICE)' (assuming running)."; \
+	else \
+		echo "✅ Service '$(SERVICE)' is running and healthy."; \
+	fi
+
+
+sonar:
+	@echo "🔍 Executando análise SonarQube com o container dedicado..."
+	@$(DC) run --rm sonar-scanner
