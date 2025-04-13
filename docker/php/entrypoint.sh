@@ -4,7 +4,7 @@ set -e
 
 echo "🛠️ Entrypoint iniciado..."
 
-APP_DIR=${APP_DIR:-/home/dev/app}
+APP_DIR=${APP_DIR}
 cd "$APP_DIR"
 
 if ! command -v composer >/dev/null; then

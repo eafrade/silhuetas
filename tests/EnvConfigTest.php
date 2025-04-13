@@ -38,7 +38,7 @@ final class EnvConfigTest extends TestCase
 
     public function testGetFileDirectory(): void
     {
-        $_ENV['FILE_DIRECTORY'] = 'test';
+        $_ENV['APP_FILE_DIRECTORY'] = 'test';
         $expected = EnvConfig::resolvePath('test') . '/';
 
         $this->assertSame($expected, EnvConfig::getFileDirectory());
@@ -46,28 +46,28 @@ final class EnvConfigTest extends TestCase
 
     public function testEmptyFileDirectory(): void
     {
-        unset($_ENV['FILE_DIRECTORY']);
-        $_ENV['FILE_EXTENSION'] = '.test';
+        unset($_ENV['APP_FILE_DIRECTORY']);
+        $_ENV['APP_FILE_EXTENSION'] = '.test';
 
         $this->expectException(\RuntimeException::class);
-        $this->expectExceptionMessage('FILE_DIRECTORY is not properly defined in the .env file.');
+        $this->expectExceptionMessage('APP_FILE_DIRECTORY is not properly defined in the .env file.');
 
         EnvConfig::getFileDirectory();
     }
 
     public function testGetFileExtension(): void
     {
-        $_ENV['FILE_EXTENSION'] = '.test';
+        $_ENV['APP_FILE_EXTENSION'] = '.test';
         $this->assertSame('.test', EnvConfig::getFileExtension());
     }
 
     public function testEmptyFileExtension(): void
     {
-        $_ENV['FILE_DIRECTORY'] = 'test/xpto';
-        unset($_ENV['FILE_EXTENSION']);
+        $_ENV['APP_FILE_DIRECTORY'] = 'test/xpto';
+        unset($_ENV['APP_FILE_EXTENSION']);
 
         $this->expectException(\RuntimeException::class);
-        $this->expectExceptionMessage('FILE_EXTENSION is not properly defined in the .env file.');
+        $this->expectExceptionMessage('APP_FILE_EXTENSION is not properly defined in the .env file.');
 
         EnvConfig::getFileExtension();
     }

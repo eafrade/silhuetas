@@ -1,5 +1,23 @@
 # Parametros de carga dos arquivos
-FILE_DIRECTORY='files'
-FILE_EXTENSION='txt'
+APP_DIR=/tmp/app
+APP_FILE_DIRECTORY=files
+APP_FILE_EXTENSION=.txt
+
+DOCKER_UID=9999
+DOCKER_GID=9999
+
+PROJECT_KEY=projeto qualidade
+PROJECT_NAME=Qualidade
+PROJECT_VERSION=1.0.0
+PROJECT_SOURCE_PATH=src
+PROJECT_TESTS_PATH=tests
+
+REPORT_COVERAGE_PATH=coverage.xml
+REPORT_UNIT_TEST_PATH=phpunit-report.xml
+REPORT_STATIC_ANALYSIS_PATH=phpstan-checkstyle.xml
+
+SONAR_SCANNER_VERSION=5.0.1.3006
+SONAR_SCANNER_OPTS=-Djava.net.preferIPv4Stack=true
+SONAR_VERBOSE=false
 SONAR_HOST=http://localhost:9090
 SONAR_TOKEN=sqatoken

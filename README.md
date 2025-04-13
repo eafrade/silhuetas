@@ -46,8 +46,8 @@ cp env_example .env
 Edite o conteúdo conforme necessário:
 
 ```env
-FILE_DIRECTORY='files'
-FILE_EXTENSION='txt'
+APP_FILE_DIRECTORY='files'
+APP_FILE_EXTENSION='txt'
 ```
 
 Coloque os arquivos de entrada no diretório `files/`.

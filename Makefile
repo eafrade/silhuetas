@@ -4,7 +4,7 @@ DC=docker-compose -f $(COMPOSE)
 
 SHELL := /bin/sh
 
-.PHONY: help build up down shell test coverage install check lint fix stan status run sonar check-running
+.PHONY: build check check-running clean coverage down fix help install lint qa run shell sonar stan status test testdox up
 
 help:
 	@echo "Available commands:"
@@ -13,6 +13,7 @@ help:
 	@echo "  make down      - Stop container"
 	@echo "  make shell     - Container shell"
 	@echo "  make test      - Run PHPUnit tests"
+	@echo "  make testdox   - Run PHPUnit in TestDox format"
 	@echo "  make coverage  - Generate coverage report"
 	@echo "  make install   - Install Composer dependencies"
 	@echo "  make lint      - Check PSR12"
@@ -23,42 +24,13 @@ help:
 	@echo "  make sonar     - Run SonarQube scan"
 
 build:
-	$(DC) build $(SERVICE)
+	$(DC) build
 
 up:
 	$(DC) up --build $(SERVICE) &
 
 down:
 	$(DC) down
-
-shell: check-running
-	$(DC) exec $(SERVICE) sh
-
-test: check-running
-	$(DC) exec $(SERVICE) ./vendor/bin/phpunit --configuration phpunit.xml.dist
-
-coverage: check-running
-	$(DC) exec $(SERVICE) ./vendor/bin/phpunit \
-		--configuration phpunit.xml.dist \
-		--coverage-clover coverage.xml \
-		--coverage-html tests/reports/coverage \
-		--coverage-text \
-		--coverage-filter=src
-
-install: check-running
-	$(DC) exec $(SERVICE) composer install --no-interaction --prefer-dist
-
-lint: check-running
-	$(DC) exec $(SERVICE) composer run lint
-
-fix: check-running
-	$(DC) exec $(SERVICE) composer run fix
-
-stan: check-running
-	$(DC) exec $(SERVICE) composer run stan
-
-run: check-running
-	$(DC) exec $(SERVICE) php process.php
 
 status:
 	@echo "🔍 Checking status of service '$(SERVICE)'..."
@@ -89,6 +61,33 @@ check-running:
 		echo "✅ Service '$(SERVICE)' is running and healthy."; \
 	fi
 
+shell: check-running
+	$(DC) exec $(SERVICE) sh
+
+install: check-running
+	$(DC) exec $(SERVICE) composer run install-vendor
+
+run: check-running
+	$(DC) exec $(SERVICE) composer run run-app
+
+test: check-running
+	$(DC) exec $(SERVICE) composer run test
+
+testdox: check-running
+	$(DC) exec $(SERVICE) composer run testdox
+
+coverage: check-running
+	$(DC) exec $(SERVICE) composer run coverage
+	$(DC) exec $(SERVICE) composer run stan
+
+lint: check-running
+	$(DC) exec $(SERVICE) composer run lint
+
+fix: check-running
+	$(DC) exec $(SERVICE) composer run fix
+
+stan: check-running
+	$(DC) exec $(SERVICE) composer run stan
 
 sonar:
 	@echo "🔍 Executando análise SonarQube com o container dedicado..."

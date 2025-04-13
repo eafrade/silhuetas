@@ -1,7 +1,13 @@
 FROM debian:bullseye-slim
 
-ENV SONAR_SCANNER_VERSION=5.0.1.3006
-ENV SONAR_SCANNER_OPTS="-Djava.net.preferIPv4Stack=true"
+ARG UID
+ARG GID
+
+ARG SONAR_SCANNER_VERSION
+ENV SONAR_SCANNER_VERSION=${SONAR_SCANNER_VERSION}
+ENV SONAR_USER_HOME=/tmp/.sonar
+ENV XDG_CONFIG_HOME=/tmp/.config
+
 ENV PATH="/opt/sonar-scanner-${SONAR_SCANNER_VERSION}-linux/bin:$PATH"
 
 RUN apt-get update \
@@ -16,6 +22,11 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY docker/sonar-scanner/entrypoint.sh /entrypoint.sh
+
+RUN addgroup --gid ${GID} dev \
+    && adduser --uid ${UID} --gid ${GID} --system --no-create-home dev
+
+USER dev
 WORKDIR /app
 
 ENTRYPOINT ["sonar-scanner"]

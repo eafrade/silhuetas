@@ -5,7 +5,10 @@
          colors="true"
          executionOrder="default"
          stopOnFailure="false"
-         cacheDirectory=".phpunit.cache">
+         cacheDirectory=".phpunit.cache"
+         beStrictAboutOutputDuringTests="true"
+         failOnRisky="true"
+         failOnWarning="true">
 
   <testsuites>
     <testsuite name="Silhuetas Test Suite">

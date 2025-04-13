@@ -6,22 +6,28 @@ services:
       context: .
       dockerfile: docker/php/Dockerfile
       args:
-        UID: ${UID:-1000}
-        GID: ${GID:-1000}
+        UID: ${DOCKER_UID}
+        GID: ${DOCKER_GID}
     container_name: php-app
     volumes:
-      - .:/home/dev/app
-    working_dir: /home/dev/app
+      - .:${APP_DIR}
+    working_dir: ${APP_DIR}
     tty: true
 
   sonar-scanner:
     build:
       context: .
       dockerfile: docker/sonar-scanner/Dockerfile
-    container_name: sonar-scanner
+      args:
+        SONAR_SCANNER_VERSION: ${SONAR_SCANNER_VERSION}
+        UID: ${DOCKER_UID}
+        GID: ${DOCKER_GID}
+    container_name: app-sonar-scanner
     volumes:
-      - .:/app
+      - .:${APP_DIR}
     env_file:
       - .env
-    working_dir: /app
+    working_dir: ${APP_DIR}
+    environment:
+      SONAR_SCANNER_OPTS: "${SONAR_SCANNER_OPTS}"
     entrypoint: [ "/entrypoint.sh" ]

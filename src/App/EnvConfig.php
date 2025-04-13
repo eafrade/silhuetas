@@ -18,10 +18,10 @@ final class EnvConfig
 
     public static function getFileDirectory(): string
     {
-        $directory = $_ENV['FILE_DIRECTORY'] ?? null;
+        $directory = $_ENV['APP_FILE_DIRECTORY'] ?? null;
 
         if (!\is_string($directory)) {
-            throw new \RuntimeException('FILE_DIRECTORY is not properly defined in the .env file.');
+            throw new \RuntimeException('APP_FILE_DIRECTORY is not properly defined in the .env file.');
         }
 
         return self::resolvePath($directory) . '/';
@@ -29,10 +29,10 @@ final class EnvConfig
 
     public static function getFileExtension(): string
     {
-        $extension = $_ENV['FILE_EXTENSION'] ?? null;
+        $extension = $_ENV['APP_FILE_EXTENSION'] ?? null;
 
         if (!\is_string($extension)) {
-            throw new \RuntimeException('FILE_EXTENSION is not properly defined in the .env file.');
+            throw new \RuntimeException('APP_FILE_EXTENSION is not properly defined in the .env file.');
         }
 
         return $extension;
